@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Who Is Food Aid Missing?
 
 **Delivery and distance monitoring for emergency nutrition assistance in northern Kenya.**
@@ -96,3 +97,6 @@ python build_dashboard.py
 - Where received exceeds dispatched, the two values are treated as swapped and flagged for field confirmation.
 - Recommended new sites come from a greedy search that first assumes the suspended sites are reopened. It is a screening tool, not a full location optimisation.
 - Because the data is simulated, the findings show what the method can surface, not what is true in any county.
+=======
+# Who-is-Food-Aid-Missing
+>>>>>>> 4d5ef0f32136ba161ae9c4073c9fd529c34889e4
