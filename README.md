@@ -180,6 +180,6 @@ Reopen + add 5 new sites  ██████████████████
 
 **Built by Samuel Mati** &nbsp;|&nbsp; Data analytics for humanitarian programmes
 
-**[Live dashboard](https://htmlpreview.github.io/?https://github.com/samuel-mati/Who-is-Food-Aid-Missing/blob/main/dashboard/monitoring_dashboard.html)** &nbsp;|&nbsp; **[Executive memo](docs/Executive_Briefing_Memo.docx)** &nbsp;|&nbsp; **[Database design](docs/erd.png)**
+**[Live dashboard](https://htmlpreview.github.io/?https://github.com/samuel-mati/Who-is-Food-Aid-Missing/blob/main/dashboard/monitoring_dashboard.html)** &nbsp;|&nbsp; **[Executive memo](docs/Executive_Briefing_Memo.pdf)** &nbsp;|&nbsp; **[Database design](docs/erd.png)**
 
 </div>
