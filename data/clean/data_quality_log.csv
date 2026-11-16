@@ -1,0 +1,16 @@
+table,check,rows_affected,action
+beneficiaries,county spelling and case inconsistent,14,standardised to title case
+beneficiaries,"duplicate registration (name, settlement, household size)",40,"later registration removed, listed in flagged_duplicate_registrations.csv"
+beneficiaries,missing subcounty,22,filled from settlement cluster
+beneficiaries,missing vulnerability score,36,"filled with county median, vulnerability_imputed = 1"
+beneficiaries,missing or invalid coordinates,9,"set to settlement cluster median, coords_imputed = 1"
+beneficiaries,household size or vulnerability score out of range,0,none found
+sites,rows loaded,16,no changes needed
+distributions,"repeated site, date and commodity line",5,removed
+distributions,site id not in site register,4,quarantined in rejected_distributions_unknown_site.csv
+distributions,missing dispatched quantity,6,filled from received quantity and flagged
+distributions,received quantity above dispatched quantity,8,values swapped and flagged for field confirmation
+distributions,zero or negative quantity,0,none found
+distributions,dispatched above 110 percent of plan,0,none found
+distributions,county month batches where received exceeds dispatched,0,reconciled
+ration_receipts,receipt rows with no matching household,0,none found

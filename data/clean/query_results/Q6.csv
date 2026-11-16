@@ -1,0 +1,17 @@
+site_name,county,operational_status,households_served,completion_rate_pct,worst_first_rank
+Marsabit Distribution Point 2,Marsabit,Active,50,84.0,1.0
+Marsabit Distribution Point 1,Marsabit,Active,105,84.5,2.0
+Marsabit Distribution Point 4,Marsabit,Active,95,84.6,3.0
+Garissa Distribution Point 1,Garissa,Active,99,86.7,4.0
+Turkana Distribution Point 1,Turkana,Active,148,87.0,5.0
+Garissa Distribution Point 2,Garissa,Active,50,87.3,6.0
+Garissa Distribution Point 3,Garissa,Active,50,87.6,7.0
+Turkana Distribution Point 3,Turkana,Active,50,88.0,8.0
+Garissa Distribution Point 4,Garissa,Active,51,88.2,9.0
+Turkana Distribution Point 4,Turkana,Active,52,88.3,10.0
+Isiolo Distribution Point 1,Isiolo,Active,91,90.6,11.0
+Isiolo Distribution Point 2,Isiolo,Active,50,90.8,12.0
+Isiolo Distribution Point 3,Isiolo,Active,51,90.9,13.0
+Isiolo Distribution Point 4,Isiolo,Active,58,91.2,14.0
+Turkana Distribution Point 2,Turkana,Suspended,0,,
+Marsabit Distribution Point 3,Marsabit,Suspended,0,,

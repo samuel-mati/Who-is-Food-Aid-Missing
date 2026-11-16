@@ -1,0 +1,1001 @@
+household_id,county,subcounty,settlement_cluster,latitude,longitude,vulnerability_score,nearest_site_id,nearest_site_km,coverage_band
+HH0001,Turkana,Turkana Central,TUR-S1,3.08589,35.60433,72,S01,4.82,Within 5 km
+HH0002,Turkana,Turkana Central,TUR-S1,3.12289,35.59846,71,S01,1.35,Within 5 km
+HH0003,Turkana,Turkana Central,TUR-S1,3.13154,35.59732,44,S01,1.33,Within 5 km
+HH0004,Turkana,Turkana Central,TUR-S1,3.135,35.62435,52,S01,1.83,Within 5 km
+HH0005,Turkana,Turkana Central,TUR-S1,3.13068,35.62602,74,S01,1.9,Within 5 km
+HH0006,Turkana,Turkana Central,TUR-S1,3.11961,35.59203,53,S01,2.15,Within 5 km
+HH0007,Turkana,Turkana Central,TUR-S1,3.10258,35.58193,95,S01,4.2,Within 5 km
+HH0008,Turkana,Turkana Central,TUR-S1,3.11725,35.6082,84,S01,1.31,Within 5 km
+HH0009,Turkana,Turkana Central,TUR-S1,3.12837,35.60103,42,S01,0.89,Within 5 km
+HH0010,Turkana,Turkana Central,TUR-S1,3.12451,35.59311,82,S01,1.83,Within 5 km
+HH0011,Turkana,Turkana Central,TUR-S1,3.1293,35.59934,49,S01,1.07,Within 5 km
+HH0012,Turkana,Turkana Central,TUR-S1,3.11951,35.58898,68,S01,2.46,Within 5 km
+HH0013,Turkana,Turkana Central,TUR-S1,3.10774,35.59174,55,S01,3.04,Within 5 km
+HH0014,Turkana,Turkana Central,TUR-S1,3.10216,35.63226,62,S01,3.95,Within 5 km
+HH0015,Turkana,Turkana Central,TUR-S1,3.14793,35.58291,60,S01,3.58,Within 5 km
+HH0016,Turkana,Turkana Central,TUR-S1,3.11184,35.5743,100,S01,4.3,Within 5 km
+HH0017,Turkana,Turkana Central,TUR-S1,3.16791,35.58303,70,S01,5.2,5 to 10 km
+HH0018,Turkana,Turkana Central,TUR-S1,3.088,35.58449,78,S01,5.31,5 to 10 km
+HH0019,Turkana,Turkana Central,TUR-S1,3.13996,35.61357,70,S01,1.32,Within 5 km
+HH0020,Turkana,Turkana Central,TUR-S1,3.12478,35.61402,53,S01,0.73,Within 5 km
+HH0021,Turkana,Turkana Central,TUR-S1,3.12065,35.60741,63,S01,0.94,Within 5 km
+HH0022,Turkana,Turkana Central,TUR-S1,3.10066,35.61556,52,S01,3.23,Within 5 km
+HH0023,Turkana,Turkana Central,TUR-S1,3.09235,35.58013,62,S01,5.18,5 to 10 km
+HH0024,Turkana,Turkana Central,TUR-S1,3.1574,35.62662,71,S01,3.72,Within 5 km
+HH0025,Turkana,Turkana Central,TUR-S1,3.11864,35.61261,62,S01,1.22,Within 5 km
+HH0026,Turkana,Turkana Central,TUR-S1,3.1594,35.61501,35,S01,3.45,Within 5 km
+HH0027,Turkana,Turkana Central,TUR-S1,3.1214,35.61188,69,S01,0.9,Within 5 km
+HH0028,Turkana,Turkana Central,TUR-S1,3.13728,35.59559,65,S01,1.75,Within 5 km
+HH0029,Turkana,Turkana Central,TUR-S1,3.13761,35.64252,43,S01,3.84,Within 5 km
+HH0030,Turkana,Turkana Central,TUR-S1,3.10339,35.6051,66,S01,2.88,Within 5 km
+HH0031,Turkana,Turkana Central,TUR-S1,3.12482,35.61449,78,S01,0.76,Within 5 km
+HH0032,Turkana,Turkana Central,TUR-S1,3.11798,35.6302,48,S01,2.65,Within 5 km
+HH0033,Turkana,Turkana Central,TUR-S1,3.10915,35.61571,54,S01,2.33,Within 5 km
+HH0034,Turkana,Turkana Central,TUR-S1,3.09753,35.57986,52,S01,4.77,Within 5 km
+HH0035,Turkana,Turkana Central,TUR-S1,3.12562,35.59285,45,S01,1.83,Within 5 km
+HH0036,Turkana,Turkana Central,TUR-S1,3.13626,35.61373,53,S01,0.96,Within 5 km
+HH0037,Turkana,Turkana Central,TUR-S1,3.13855,35.60482,40,S01,1.16,Within 5 km
+HH0038,Turkana,Turkana Central,TUR-S1,3.11744,35.59218,46,S01,2.27,Within 5 km
+HH0039,Turkana,Turkana Central,TUR-S1,3.12143,35.59961,58,S01,1.34,Within 5 km
+HH0040,Turkana,Turkana Central,TUR-S1,3.08103,35.62398,64,S01,5.59,5 to 10 km
+HH0041,Turkana,Turkana Central,TUR-S1,3.1221,35.57999,47,S01,3.31,Within 5 km
+HH0042,Turkana,Turkana Central,TUR-S1,3.11373,35.63645,69,S01,3.49,Within 5 km
+HH0043,Turkana,Turkana Central,TUR-S1,3.13351,35.6096,44,S01,0.51,Within 5 km
+HH0044,Turkana,Turkana Central,TUR-S1,3.13314,35.6265,63,S01,2.0,Within 5 km
+HH0045,Turkana,Turkana Central,TUR-S1,3.08675,35.58459,47,S01,5.42,5 to 10 km
+HH0046,Turkana,Turkana Central,TUR-S1,3.10607,35.59675,67,S01,2.89,Within 5 km
+HH0047,Turkana,Turkana Central,TUR-S1,3.1169,35.5661,41,S01,4.95,Within 5 km
+HH0048,Turkana,Turkana Central,TUR-S1,3.1393,35.60269,62,S01,1.34,Within 5 km
+HH0049,Turkana,Turkana Central,TUR-S1,3.13549,35.60566,84,S01,0.81,Within 5 km
+HH0050,Turkana,Turkana Central,TUR-S1,3.10461,35.60901,92,S01,2.71,Within 5 km
+HH0051,Turkana,Turkana West,TUR-S2,3.14462,35.70635,70,S01,10.95,Over 10 km
+HH0052,Turkana,Turkana West,TUR-S2,3.1452,35.71629,73,S01,12.05,Over 10 km
+HH0053,Turkana,Turkana West,TUR-S2,3.19807,35.72282,62,S01,14.79,Over 10 km
+HH0054,Turkana,Turkana West,TUR-S2,3.14067,35.71802,39,S01,12.17,Over 10 km
+HH0055,Turkana,Turkana West,TUR-S2,3.17432,35.71257,100,S01,12.55,Over 10 km
+HH0056,Turkana,Turkana West,TUR-S2,3.21121,35.72774,66,S01,16.04,Over 10 km
+HH0057,Turkana,Turkana West,TUR-S2,3.16713,35.72108,74,S01,13.15,Over 10 km
+HH0058,Turkana,Turkana West,TUR-S2,3.15098,35.70382,56,S01,10.81,Over 10 km
+HH0059,Turkana,Turkana West,TUR-S2,3.18124,35.74076,61,S01,15.74,Over 10 km
+HH0060,Turkana,Turkana West,TUR-S2,3.14108,35.7327,71,S01,13.8,Over 10 km
+HH0061,Turkana,Turkana West,TUR-S2,3.1617,35.73889,66,S01,14.87,Over 10 km
+HH0062,Turkana,Turkana West,TUR-S2,3.17133,35.72857,62,S01,14.08,Over 10 km
+HH0063,Turkana,Turkana West,TUR-S2,3.16163,35.70914,40,S01,11.69,Over 10 km
+HH0064,Turkana,Turkana West,TUR-S2,3.1634,35.71178,62,S01,12.03,Over 10 km
+HH0065,Turkana,Turkana West,TUR-S2,3.16215,35.74631,81,S01,15.68,Over 10 km
+HH0066,Turkana,Turkana West,TUR-S2,3.15965,35.72618,67,S01,13.45,Over 10 km
+HH0067,Turkana,Turkana West,TUR-S2,3.16248,35.72916,59,S01,13.85,Over 10 km
+HH0068,Turkana,Turkana West,TUR-S2,3.15717,35.6883,62,S01,9.34,5 to 10 km
+HH0069,Turkana,Turkana West,TUR-S2,3.15839,35.74672,43,S01,15.64,Over 10 km
+HH0070,Turkana,Turkana West,TUR-S2,3.1521,35.71373,78,S01,11.91,Over 10 km
+HH0071,Turkana,Turkana West,TUR-S2,3.14627,35.75181,66,S01,15.97,Over 10 km
+HH0072,Turkana,Turkana West,TUR-S2,3.16067,35.75341,60,S01,16.41,Over 10 km
+HH0073,Turkana,Turkana West,TUR-S2,3.17294,35.7595,41,S01,17.41,Over 10 km
+HH0074,Turkana,Turkana West,TUR-S2,3.161,35.72699,60,S01,13.57,Over 10 km
+HH0075,Turkana,Turkana West,TUR-S2,3.17513,35.74299,56,S01,15.74,Over 10 km
+HH0076,Turkana,Turkana West,TUR-S2,3.1622,35.72707,69,S01,13.62,Over 10 km
+HH0077,Turkana,Turkana West,TUR-S2,3.16319,35.74764,27,S01,15.85,Over 10 km
+HH0078,Turkana,Turkana West,TUR-S2,3.18191,35.69403,68,S01,11.12,Over 10 km
+HH0079,Turkana,Turkana West,TUR-S2,3.14806,35.72101,64,S01,12.61,Over 10 km
+HH0080,Turkana,Turkana West,TUR-S2,3.18743,35.73776,87,S01,15.7,Over 10 km
+HH0081,Turkana,Turkana West,TUR-S2,3.15258,35.70629,35,S01,11.11,Over 10 km
+HH0082,Turkana,Turkana West,TUR-S2,3.13461,35.73903,51,S01,14.45,Over 10 km
+HH0083,Turkana,Turkana West,TUR-S2,3.18775,35.75415,53,S01,17.39,Over 10 km
+HH0084,Turkana,Turkana West,TUR-S2,3.1483,35.74947,69,S01,15.74,Over 10 km
+HH0085,Turkana,Turkana West,TUR-S2,3.18477,35.69203,79,S01,11.11,Over 10 km
+HH0086,Turkana,Turkana West,TUR-S2,3.17173,35.74202,72,S01,15.51,Over 10 km
+HH0087,Turkana,Turkana West,TUR-S2,3.20888,35.74824,52,S01,17.83,Over 10 km
+HH0088,Turkana,Turkana West,TUR-S2,3.15974,35.73047,57,S01,13.91,Over 10 km
+HH0089,Turkana,Turkana West,TUR-S2,3.15431,35.70427,49,S01,10.94,Over 10 km
+HH0090,Turkana,Turkana West,TUR-S2,3.16414,35.73791,63,S01,14.84,Over 10 km
+HH0091,Turkana,Turkana West,TUR-S2,3.19322,35.71982,82,S01,14.23,Over 10 km
+HH0092,Turkana,Turkana West,TUR-S2,3.16395,35.74995,36,S01,16.12,Over 10 km
+HH0093,Turkana,Turkana West,TUR-S2,3.13228,35.72215,63,S01,12.57,Over 10 km
+HH0094,Turkana,Turkana West,TUR-S2,3.17263,35.73169,67,S01,14.46,Over 10 km
+HH0095,Turkana,Turkana West,TUR-S2,3.17739,35.73359,42,S01,14.84,Over 10 km
+HH0096,Turkana,Turkana West,TUR-S2,3.16949,35.69605,76,S01,10.66,Over 10 km
+HH0097,Turkana,Turkana West,TUR-S2,3.17724,35.75334,75,S01,16.9,Over 10 km
+HH0098,Turkana,Turkana West,TUR-S2,3.18184,35.70664,75,S01,12.33,Over 10 km
+HH0099,Turkana,Turkana West,TUR-S2,3.18275,35.71075,78,S01,12.78,Over 10 km
+HH0100,Turkana,Turkana West,TUR-S2,3.16792,35.73419,70,S01,14.56,Over 10 km
+HH0101,Turkana,Loima,TUR-S3,3.20911,35.51795,66,S03,1.89,Within 5 km
+HH0102,Turkana,Loima,TUR-S3,3.19215,35.5044,63,S03,2.02,Within 5 km
+HH0103,Turkana,Loima,TUR-S3,3.1932,35.50657,45,S03,1.96,Within 5 km
+HH0104,Turkana,Loima,TUR-S3,3.20958,35.46764,68,S03,3.69,Within 5 km
+HH0105,Turkana,Loima,TUR-S3,3.2026,35.48757,50,S03,1.69,Within 5 km
+HH0106,Turkana,Loima,TUR-S3,3.197705,35.49334,77,S03,1.6,Within 5 km
+HH0107,Turkana,Loima,TUR-S3,3.19122,35.5069,72,S03,2.18,Within 5 km
+HH0108,Turkana,Loima,TUR-S3,3.17725,35.47105,41,S03,4.92,Within 5 km
+HH0109,Turkana,Loima,TUR-S3,3.18819,35.49269,72,S03,2.59,Within 5 km
+HH0110,Turkana,Loima,TUR-S3,3.18393,35.49428,55,S03,2.98,Within 5 km
+HH0111,Turkana,Loima,TUR-S3,3.19345,35.46301,30,S03,4.59,Within 5 km
+HH0112,Turkana,Loima,TUR-S3,3.21966,35.46656,66,S03,3.96,Within 5 km
+HH0113,Turkana,Loima,TUR-S3,3.19817,35.49826,56,S03,1.34,Within 5 km
+HH0114,Turkana,Loima,TUR-S3,3.17634,35.52522,64,S03,4.61,Within 5 km
+HH0115,Turkana,Loima,TUR-S3,3.20703,35.53717,76,S03,4.04,Within 5 km
+HH0116,Turkana,Loima,TUR-S3,3.19557,35.4617,78,S03,4.64,Within 5 km
+HH0117,Turkana,Loima,TUR-S3,3.18996,35.49767,81,S03,2.25,Within 5 km
+HH0118,Turkana,Loima,TUR-S3,3.18202,35.49771,65,S03,3.12,Within 5 km
+HH0119,Turkana,Loima,TUR-S3,3.2004,35.48815,34,S03,1.77,Within 5 km
+HH0120,Turkana,Loima,TUR-S3,3.21267,35.48078,68,S03,2.26,Within 5 km
+HH0121,Turkana,Loima,TUR-S3,3.23099,35.47648,58,S03,3.58,Within 5 km
+HH0122,Turkana,Loima,TUR-S3,3.18079,35.50956,54,S03,3.38,Within 5 km
+HH0123,Turkana,Loima,TUR-S3,3.19724,35.48893,63,S03,1.94,Within 5 km
+HH0124,Turkana,Loima,TUR-S3,3.20475,35.49634,60,S03,0.77,Within 5 km
+HH0125,Turkana,Loima,TUR-S3,3.20131,35.47848,39,S03,2.67,Within 5 km
+HH0126,Turkana,Loima,TUR-S3,3.23255,35.47375,23,S03,3.93,Within 5 km
+HH0127,Turkana,Loima,TUR-S3,3.21552,35.49595,57,S03,0.83,Within 5 km
+HH0128,Turkana,Loima,TUR-S3,3.208,35.4944,51,S03,0.76,Within 5 km
+HH0129,Turkana,Loima,TUR-S3,3.19283,35.48349,74,S03,2.71,Within 5 km
+HH0130,Turkana,Loima,TUR-S3,3.18355,35.53535,49,S03,4.82,Within 5 km
+HH0131,Turkana,Loima,TUR-S3,3.17501,35.49322,64,S03,3.98,Within 5 km
+HH0132,Turkana,Loima,TUR-S3,3.197705,35.49334,38,S03,1.6,Within 5 km
+HH0133,Turkana,Loima,TUR-S3,3.20306,35.48139,74,S03,2.3,Within 5 km
+HH0134,Turkana,Loima,TUR-S3,3.19015,35.48162,60,S03,3.07,Within 5 km
+HH0135,Turkana,Loima,TUR-S3,3.21161,35.49937,20,S03,0.25,Within 5 km
+HH0136,Turkana,Loima,TUR-S3,3.2096,35.46905,51,S03,3.54,Within 5 km
+HH0137,Turkana,Loima,TUR-S3,3.19016,35.50582,62,S03,2.27,Within 5 km
+HH0138,Turkana,Loima,TUR-S3,3.15469,35.49616,72,S03,6.17,5 to 10 km
+HH0139,Turkana,Loima,TUR-S3,3.17942,35.48664,50,S03,3.75,Within 5 km
+HH0140,Turkana,Loima,TUR-S3,3.21687,35.47728,72,S03,2.74,Within 5 km
+HH0141,Turkana,Loima,TUR-S3,3.21367,35.49602,52,S03,0.68,Within 5 km
+HH0142,Turkana,Loima,TUR-S3,3.19241,35.49273,72,S03,2.15,Within 5 km
+HH0143,Turkana,Loima,TUR-S3,3.18427,35.48615,66,S03,3.29,Within 5 km
+HH0144,Turkana,Loima,TUR-S3,3.19963,35.50745,85,S03,1.36,Within 5 km
+HH0145,Turkana,Loima,TUR-S3,3.16832,35.49346,61,S03,4.7,Within 5 km
+HH0146,Turkana,Loima,TUR-S3,3.1764,35.46411,46,S03,5.53,5 to 10 km
+HH0147,Turkana,Loima,TUR-S3,3.20171,35.49828,76,S03,0.96,Within 5 km
+HH0148,Turkana,Loima,TUR-S3,3.22662,35.51621,77,S03,2.51,Within 5 km
+HH0149,Turkana,Loima,TUR-S3,3.20634,35.50553,74,S03,0.65,Within 5 km
+HH0150,Turkana,Loima,TUR-S3,3.20062,35.48998,66,S03,1.6,Within 5 km
+HH0151,Turkana,Turkana South,TUR-S4,2.98089,35.66494,50,S04,4.09,Within 5 km
+HH0152,Turkana,Turkana South,TUR-S4,2.94329,35.65245,58,S04,5.82,5 to 10 km
+HH0153,Turkana,Turkana South,TUR-S4,2.94086,35.6287,70,S04,8.34,5 to 10 km
+HH0154,Turkana,Turkana South,TUR-S4,2.93657,35.65423,72,S04,6.03,5 to 10 km
+HH0155,Turkana,Turkana South,TUR-S4,2.98108,35.66268,46,S04,4.33,Within 5 km
+HH0156,Turkana,Turkana South,TUR-S4,2.96202,35.65604,62,S04,4.81,Within 5 km
+HH0157,Turkana,Turkana South,TUR-S4,2.98167,35.63453,76,S04,7.35,5 to 10 km
+HH0158,Turkana,Turkana South,TUR-S4,2.98116,35.62701,50,S04,8.15,5 to 10 km
+HH0159,Turkana,Turkana South,TUR-S4,2.95596,35.64031,50,S04,6.64,5 to 10 km
+HH0160,Turkana,Turkana South,TUR-S4,2.9255,35.62158,40,S04,9.77,5 to 10 km
+HH0161,Turkana,Turkana South,TUR-S4,2.96928,35.66349,66,S04,3.96,Within 5 km
+HH0162,Turkana,Turkana South,TUR-S4,2.96424,35.64728,50,S04,5.76,5 to 10 km
+HH0163,Turkana,Turkana South,TUR-S4,2.97026,35.62962,53,S04,7.72,5 to 10 km
+HH0164,Turkana,Turkana South,TUR-S4,2.96215,35.66444,66,S04,3.89,Within 5 km
+HH0165,Turkana,Turkana South,TUR-S4,2.99405,35.64488,53,S04,6.72,5 to 10 km
+HH0166,Turkana,Turkana South,TUR-S4,2.99049,35.62579,41,S04,8.54,5 to 10 km
+HH0167,Turkana,Turkana South,TUR-S4,2.93759,35.65246,68,S04,6.13,5 to 10 km
+HH0168,Turkana,Turkana South,TUR-S4,3.00082,35.65014,80,S04,6.6,5 to 10 km
+HH0169,Turkana,Turkana South,TUR-S4,2.97469,35.64853,75,S04,5.68,5 to 10 km
+HH0170,Turkana,Turkana South,TUR-S4,2.99824,35.66594,86,S04,5.05,5 to 10 km
+HH0171,Turkana,Turkana South,TUR-S4,2.94891,35.65756,53,S04,5.04,5 to 10 km
+HH0172,Turkana,Turkana South,TUR-S4,2.96441,35.61341,50,S04,9.52,5 to 10 km
+HH0173,Turkana,Turkana South,TUR-S4,2.9506,35.61515,61,S04,9.5,5 to 10 km
+HH0174,Turkana,Turkana South,TUR-S4,2.98217,35.64345,69,S04,6.4,5 to 10 km
+HH0175,Turkana,Turkana South,TUR-S4,2.93987,35.61923,39,S04,9.37,5 to 10 km
+HH0176,Turkana,Turkana South,TUR-S4,2.93483,35.66565,47,S04,5.16,5 to 10 km
+HH0177,Turkana,Turkana South,TUR-S4,2.96118,35.64368,49,S04,6.19,5 to 10 km
+HH0178,Turkana,Turkana South,TUR-S4,2.97902,35.64748,42,S04,5.88,5 to 10 km
+HH0179,Turkana,Turkana South,TUR-S4,2.99399,35.64245,35,S04,6.96,5 to 10 km
+HH0180,Turkana,Turkana South,TUR-S4,2.94977,35.64107,88,S04,6.72,5 to 10 km
+HH0181,Turkana,Turkana South,TUR-S4,2.98786,35.61922,44,S04,9.16,5 to 10 km
+HH0182,Turkana,Turkana South,TUR-S4,2.97968,35.63412,80,S04,7.35,5 to 10 km
+HH0183,Turkana,Turkana South,TUR-S4,2.97392,35.63406,71,S04,7.26,5 to 10 km
+HH0184,Turkana,Turkana South,TUR-S4,2.98561,35.65712,61,S04,5.09,5 to 10 km
+HH0185,Turkana,Turkana South,TUR-S4,2.96723,35.66162,43,S04,4.16,Within 5 km
+HH0186,Turkana,Turkana South,TUR-S4,2.956,35.62989,69,S04,7.78,5 to 10 km
+HH0187,Turkana,Turkana South,TUR-S4,2.94275,35.65707,24,S04,5.39,5 to 10 km
+HH0188,Turkana,Turkana South,TUR-S4,2.95195,35.63005,57,S04,7.85,5 to 10 km
+HH0189,Turkana,Turkana South,TUR-S4,2.97699,35.63592,55,S04,7.1,5 to 10 km
+HH0190,Turkana,Turkana South,TUR-S4,2.98441,35.63857,68,S04,6.99,5 to 10 km
+HH0191,Turkana,Turkana South,TUR-S4,2.94482,35.63858,70,S04,7.16,5 to 10 km
+HH0192,Turkana,Turkana South,TUR-S4,2.93005,35.67656,55,S04,4.82,Within 5 km
+HH0193,Turkana,Turkana South,TUR-S4,2.96346,35.64717,44,S04,5.78,5 to 10 km
+HH0194,Turkana,Turkana South,TUR-S4,2.965,35.66137,53,S04,4.19,Within 5 km
+HH0195,Turkana,Turkana South,TUR-S4,2.94835,35.6631,48,S04,4.51,Within 5 km
+HH0196,Turkana,Turkana South,TUR-S4,2.95004,35.66803,64,S04,3.94,Within 5 km
+HH0197,Turkana,Turkana South,TUR-S4,2.9784,35.65909,50,S04,4.61,Within 5 km
+HH0198,Turkana,Turkana South,TUR-S4,2.94117,35.62384,71,S04,8.84,5 to 10 km
+HH0199,Turkana,Turkana South,TUR-S4,2.96448,35.66074,60,S04,4.27,Within 5 km
+HH0200,Turkana,Turkana South,TUR-S4,2.97295,35.66523,68,S04,3.81,Within 5 km
+HH0201,Turkana,Turkana North,TUR-S5,3.05738,35.56724,60,S01,9.21,5 to 10 km
+HH0202,Turkana,Turkana North,TUR-S5,3.03977,35.58165,52,S01,10.38,Over 10 km
+HH0203,Turkana,Turkana North,TUR-S5,3.01895,35.57081,72,S01,12.95,Over 10 km
+HH0204,Turkana,Turkana North,TUR-S5,3.04435,35.55457,32,S01,11.19,Over 10 km
+HH0205,Turkana,Turkana North,TUR-S5,3.03402,35.56012,78,S01,11.87,Over 10 km
+HH0206,Turkana,Turkana North,TUR-S5,3.02339,35.58024,62,S01,12.17,Over 10 km
+HH0207,Turkana,Turkana North,TUR-S5,3.01262,35.56883,82,S01,13.69,Over 10 km
+HH0208,Turkana,Turkana North,TUR-S5,3.02004,35.58008,29,S01,12.53,Over 10 km
+HH0209,Turkana,Turkana North,TUR-S5,3.05128,35.5729,45,S01,9.53,5 to 10 km
+HH0210,Turkana,Turkana North,TUR-S5,3.01011,35.54887,73,S01,14.81,Over 10 km
+HH0211,Turkana,Turkana North,TUR-S5,3.04796,35.56147,58,S01,10.44,Over 10 km
+HH0212,Turkana,Turkana North,TUR-S5,3.04118,35.5243,96,S01,13.56,Over 10 km
+HH0213,Turkana,Turkana North,TUR-S5,3.05767,35.54085,65,S01,10.96,Over 10 km
+HH0214,Turkana,Turkana North,TUR-S5,3.05976,35.55883,80,S01,9.5,5 to 10 km
+HH0215,Turkana,Turkana North,TUR-S5,3.01492,35.52546,47,S01,15.71,Over 10 km
+HH0216,Turkana,Turkana North,TUR-S5,3.03552,35.57666,60,S01,11.0,Over 10 km
+HH0217,Turkana,Turkana North,TUR-S5,2.99554,35.58001,64,S04,13.59,Over 10 km
+HH0218,Turkana,Turkana North,TUR-S5,3.04214,35.56207,68,S01,10.97,Over 10 km
+HH0219,Turkana,Turkana North,TUR-S5,3.06787,35.57086,93,S01,8.01,5 to 10 km
+HH0220,Turkana,Turkana North,TUR-S5,3.0462,35.5827,50,S01,9.66,5 to 10 km
+HH0221,Turkana,Turkana North,TUR-S5,3.03422,35.56332,61,S01,11.7,Over 10 km
+HH0222,Turkana,Turkana North,TUR-S5,3.03214,35.57968,66,S01,11.25,Over 10 km
+HH0223,Turkana,Turkana North,TUR-S5,3.03606,35.56338,51,S01,11.51,Over 10 km
+HH0224,Turkana,Turkana North,TUR-S5,3.01038,35.5761,54,S01,13.69,Over 10 km
+HH0225,Turkana,Turkana North,TUR-S5,3.0186,35.57083,67,S01,12.99,Over 10 km
+HH0226,Turkana,Turkana North,TUR-S5,3.03597,35.58972,62,S01,10.56,Over 10 km
+HH0227,Turkana,Turkana North,TUR-S5,3.05905,35.56709,53,S01,9.06,5 to 10 km
+HH0228,Turkana,Turkana North,TUR-S5,3.03236,35.54159,39,S01,13.1,Over 10 km
+HH0229,Turkana,Turkana North,TUR-S5,3.03636,35.54018,64,S01,12.83,Over 10 km
+HH0230,Turkana,Turkana North,TUR-S5,3.05437,35.57059,47,S01,9.33,5 to 10 km
+HH0231,Turkana,Turkana North,TUR-S5,3.03018,35.58394,62,S01,11.33,Over 10 km
+HH0232,Turkana,Turkana North,TUR-S5,3.0834,35.58224,52,S01,5.88,5 to 10 km
+HH0233,Turkana,Turkana North,TUR-S5,3.04836,35.57036,69,S01,9.94,5 to 10 km
+HH0234,Turkana,Turkana North,TUR-S5,3.07116,35.5623,51,S01,8.26,5 to 10 km
+HH0235,Turkana,Turkana North,TUR-S5,3.05369,35.57407,62,S01,9.23,5 to 10 km
+HH0236,Turkana,Turkana North,TUR-S5,3.00924,35.58381,65,S01,13.61,Over 10 km
+HH0237,Turkana,Turkana North,TUR-S5,3.03194,35.54506,73,S01,12.92,Over 10 km
+HH0238,Turkana,Turkana North,TUR-S5,3.02642,35.52996,57,S01,14.39,Over 10 km
+HH0239,Turkana,Turkana North,TUR-S5,3.0372,35.54619,59,S01,12.36,Over 10 km
+HH0240,Turkana,Turkana North,TUR-S5,3.03132,35.5778,47,S01,11.4,Over 10 km
+HH0241,Turkana,Turkana North,TUR-S5,3.031,35.5562,67,S01,12.37,Over 10 km
+HH0242,Turkana,Turkana North,TUR-S5,3.07061,35.57676,51,S01,7.41,5 to 10 km
+HH0243,Turkana,Turkana North,TUR-S5,3.02664,35.55212,41,S01,13.02,Over 10 km
+HH0244,Turkana,Turkana North,TUR-S5,3.04622,35.57738,76,S01,9.85,5 to 10 km
+HH0245,Turkana,Turkana North,TUR-S5,2.99936,35.58676,50,S04,12.98,Over 10 km
+HH0246,Turkana,Turkana North,TUR-S5,3.0425,35.53892,68,S01,12.37,Over 10 km
+HH0247,Turkana,Turkana North,TUR-S5,3.04958,35.5612,81,S01,10.3,Over 10 km
+HH0248,Turkana,Turkana North,TUR-S5,3.03768,35.57273,78,S01,10.92,Over 10 km
+HH0249,Turkana,Turkana North,TUR-S5,3.04975,35.56821,43,S01,9.91,5 to 10 km
+HH0250,Turkana,Turkana North,TUR-S5,3.05022,35.58099,68,S01,9.29,5 to 10 km
+HH0251,Marsabit,Saku,MAR-S1,2.34001,38.00103,66,S05,0.73,Within 5 km
+HH0252,Marsabit,Saku,MAR-S1,2.35125,37.96227,64,S05,3.83,Within 5 km
+HH0253,Marsabit,Saku,MAR-S1,2.30327,37.9887,73,S05,4.02,Within 5 km
+HH0254,Marsabit,Saku,MAR-S1,2.31994,37.99701,63,S05,2.14,Within 5 km
+HH0255,Marsabit,Saku,MAR-S1,2.32942,37.94933,49,S05,5.13,5 to 10 km
+HH0256,Marsabit,Saku,MAR-S1,2.37173,38.0056,61,S05,3.84,Within 5 km
+HH0257,Marsabit,Saku,MAR-S1,2.34699,38.01584,59,S05,2.53,Within 5 km
+HH0258,Marsabit,Saku,MAR-S1,2.30738,37.9739,73,S05,4.19,Within 5 km
+HH0259,Marsabit,Saku,MAR-S1,2.32904,38.01511,66,S05,2.54,Within 5 km
+HH0260,Marsabit,Saku,MAR-S1,2.31593,37.97628,44,S05,3.27,Within 5 km
+HH0261,Marsabit,Saku,MAR-S1,2.31029,37.97254,51,S05,4.02,Within 5 km
+HH0262,Marsabit,Saku,MAR-S1,2.3213,38.0048,58,S05,2.28,Within 5 km
+HH0263,Marsabit,Saku,MAR-S1,2.32266,37.97595,49,S05,2.75,Within 5 km
+HH0264,Marsabit,Saku,MAR-S1,2.32049,38.01145,56,S05,2.79,Within 5 km
+HH0265,Marsabit,Saku,MAR-S1,2.34122,38.00185,80,S05,0.85,Within 5 km
+HH0266,Marsabit,Saku,MAR-S1,2.33147,37.97709,48,S05,2.11,Within 5 km
+HH0267,Marsabit,Saku,MAR-S1,2.36115,38.00633,63,S05,2.79,Within 5 km
+HH0268,Marsabit,Saku,MAR-S1,2.3362,37.96608,55,S05,3.17,Within 5 km
+HH0269,Marsabit,Saku,MAR-S1,2.33965,37.97816,72,S05,1.82,Within 5 km
+HH0270,Marsabit,Saku,MAR-S1,2.3325,37.99376,56,S05,0.73,Within 5 km
+HH0271,Marsabit,Saku,MAR-S1,2.33397,37.99136,75,S05,0.66,Within 5 km
+HH0272,Marsabit,Saku,MAR-S1,2.34407,37.97368,84,S05,2.38,Within 5 km
+HH0273,Marsabit,Saku,MAR-S1,2.33469,38.011,77,S05,1.89,Within 5 km
+HH0274,Marsabit,Saku,MAR-S1,2.33372,37.97322,78,S05,2.44,Within 5 km
+HH0275,Marsabit,Saku,MAR-S1,2.33809,37.99947,57,S05,0.56,Within 5 km
+HH0276,Marsabit,Saku,MAR-S1,2.34574,37.95509,72,S05,4.44,Within 5 km
+HH0277,Marsabit,Saku,MAR-S1,2.31289,37.9697,46,S05,4.0,Within 5 km
+HH0278,Marsabit,Saku,MAR-S1,2.34166,38.00883,63,S05,1.62,Within 5 km
+HH0279,Marsabit,Saku,MAR-S1,2.33138,37.96523,61,S05,3.36,Within 5 km
+HH0280,Marsabit,Saku,MAR-S1,2.35874,37.99977,83,S05,2.27,Within 5 km
+HH0281,Marsabit,Saku,MAR-S1,2.33698,37.99243,48,S05,0.32,Within 5 km
+HH0282,Marsabit,Saku,MAR-S1,2.33296,37.98521,63,S05,1.23,Within 5 km
+HH0283,Marsabit,Saku,MAR-S1,2.29941,38.00677,73,S05,4.61,Within 5 km
+HH0284,Marsabit,Saku,MAR-S1,2.33819,38.00154,52,S05,0.79,Within 5 km
+HH0285,Marsabit,Saku,MAR-S1,2.34274,37.99085,75,S05,0.58,Within 5 km
+HH0286,Marsabit,Saku,MAR-S1,2.33448,37.99089,69,S05,0.64,Within 5 km
+HH0287,Marsabit,Saku,MAR-S1,2.32088,37.98903,40,S05,2.1,Within 5 km
+HH0288,Marsabit,Saku,MAR-S1,2.33513,38.00075,41,S05,0.82,Within 5 km
+HH0289,Marsabit,Saku,MAR-S1,2.31889,37.9897,38,S05,2.3,Within 5 km
+HH0290,Marsabit,Saku,MAR-S1,2.33035,37.99839,73,S05,1.05,Within 5 km
+HH0291,Marsabit,Saku,MAR-S1,2.33383,37.99655,75,S05,0.62,Within 5 km
+HH0292,Marsabit,Saku,MAR-S1,2.32455,37.96869,63,S05,3.29,Within 5 km
+HH0293,Marsabit,Saku,MAR-S1,2.348,37.98013,94,S05,1.88,Within 5 km
+HH0294,Marsabit,Saku,MAR-S1,2.33993,37.99712,43,S05,0.31,Within 5 km
+HH0295,Marsabit,Saku,MAR-S1,2.3468,37.98742,52,S05,1.17,Within 5 km
+HH0296,Marsabit,Saku,MAR-S1,2.32887,37.97594,63,S05,2.35,Within 5 km
+HH0297,Marsabit,Saku,MAR-S1,2.30613,37.98295,54,S05,3.87,Within 5 km
+HH0298,Marsabit,Saku,MAR-S1,2.29099,38.02037,63,S05,6.06,5 to 10 km
+HH0299,Marsabit,Saku,MAR-S1,2.33748,37.97995,66,S05,1.63,Within 5 km
+HH0300,Marsabit,Saku,MAR-S1,2.34969,37.99382,44,S05,1.19,Within 5 km
+HH0301,Marsabit,Laisamis,MAR-S2,2.43167,37.89818,68,S06,2.92,Within 5 km
+HH0302,Marsabit,Laisamis,MAR-S2,2.406,37.87993,75,S06,0.6,Within 5 km
+HH0303,Marsabit,Laisamis,MAR-S2,2.40187,37.86889,63,S06,1.77,Within 5 km
+HH0304,Marsabit,Laisamis,MAR-S2,2.4098,37.84098,53,S06,4.56,Within 5 km
+HH0305,Marsabit,Laisamis,MAR-S2,2.39189,37.85969,51,S06,3.26,Within 5 km
+HH0306,Marsabit,Laisamis,MAR-S2,2.39146,37.87395,72,S06,2.34,Within 5 km
+HH0307,Marsabit,Laisamis,MAR-S2,2.36522,37.88402,67,S06,5.09,5 to 10 km
+HH0308,Marsabit,Laisamis,MAR-S2,2.40382,37.85757,51,S06,2.83,Within 5 km
+HH0309,Marsabit,Laisamis,MAR-S2,2.41866,37.83424,48,S06,5.37,5 to 10 km
+HH0310,Marsabit,Laisamis,MAR-S2,2.38802,37.91572,65,S06,4.53,Within 5 km
+HH0311,Marsabit,Laisamis,MAR-S2,2.37629,37.86807,59,S06,4.15,Within 5 km
+HH0312,Marsabit,Laisamis,MAR-S2,2.3702,37.87888,78,S06,4.54,Within 5 km
+HH0313,Marsabit,Laisamis,MAR-S2,2.39925,37.90877,60,S06,3.25,Within 5 km
+HH0314,Marsabit,Laisamis,MAR-S2,2.40614,37.91896,47,S06,4.14,Within 5 km
+HH0315,Marsabit,Laisamis,MAR-S2,2.36991,37.90865,85,S06,5.44,5 to 10 km
+HH0316,Marsabit,Laisamis,MAR-S2,2.41798,37.86816,88,S06,1.72,Within 5 km
+HH0317,Marsabit,Laisamis,MAR-S2,2.37966,37.8561,64,S06,4.51,Within 5 km
+HH0318,Marsabit,Laisamis,MAR-S2,2.3971,37.86787,60,S06,2.2,Within 5 km
+HH0319,Marsabit,Laisamis,MAR-S2,2.43348,37.8952,46,S06,2.9,Within 5 km
+HH0320,Marsabit,Laisamis,MAR-S2,2.40712,37.88734,79,S06,0.73,Within 5 km
+HH0321,Marsabit,Laisamis,MAR-S2,2.40861,37.88524,68,S06,0.44,Within 5 km
+HH0322,Marsabit,Laisamis,MAR-S2,2.44513,37.84163,63,S06,5.88,5 to 10 km
+HH0323,Marsabit,Laisamis,MAR-S2,2.4078,37.904,69,S06,2.47,Within 5 km
+HH0324,Marsabit,Laisamis,MAR-S2,2.39814,37.8334,65,S06,5.58,5 to 10 km
+HH0325,Marsabit,Laisamis,MAR-S2,2.399,37.8546,86,S06,3.32,Within 5 km
+HH0326,Marsabit,Laisamis,MAR-S2,2.39426,37.88312,34,S06,1.86,Within 5 km
+HH0327,Marsabit,Laisamis,MAR-S2,2.41048,37.87779,62,S06,0.47,Within 5 km
+HH0328,Marsabit,Laisamis,MAR-S2,2.40153,37.88411,70,S06,1.07,Within 5 km
+HH0329,Marsabit,Laisamis,MAR-S2,2.42618,37.85925,71,S06,3.04,Within 5 km
+HH0330,Marsabit,Laisamis,MAR-S2,2.41099,37.84467,57,S06,4.15,Within 5 km
+HH0331,Marsabit,Laisamis,MAR-S2,2.39522,37.85763,54,S06,3.22,Within 5 km
+HH0332,Marsabit,Laisamis,MAR-S2,2.39779,37.90076,65,S06,2.55,Within 5 km
+HH0333,Marsabit,Laisamis,MAR-S2,2.41522,37.86145,49,S06,2.33,Within 5 km
+HH0334,Marsabit,Laisamis,MAR-S2,2.42126,37.85949,64,S06,2.75,Within 5 km
+HH0335,Marsabit,Laisamis,MAR-S2,2.41293,37.8764,59,S06,0.66,Within 5 km
+HH0336,Marsabit,Laisamis,MAR-S2,2.41969,37.90083,68,S06,2.31,Within 5 km
+HH0337,Marsabit,Laisamis,MAR-S2,2.41997,37.83846,45,S06,4.94,Within 5 km
+HH0338,Marsabit,Laisamis,MAR-S2,2.38045,37.90118,66,S06,4.0,Within 5 km
+HH0339,Marsabit,Laisamis,MAR-S2,2.40915,37.90071,55,S06,2.09,Within 5 km
+HH0340,Marsabit,Laisamis,MAR-S2,2.40448,37.88548,68,S06,0.82,Within 5 km
+HH0341,Marsabit,Laisamis,MAR-S2,2.40581,37.84944,62,S06,3.66,Within 5 km
+HH0342,Marsabit,Laisamis,MAR-S2,2.39651,37.84058,46,S06,4.87,Within 5 km
+HH0343,Marsabit,Laisamis,MAR-S2,2.41912,37.86245,40,S06,2.35,Within 5 km
+HH0344,Marsabit,Laisamis,MAR-S2,2.39227,37.9003,70,S06,2.91,Within 5 km
+HH0345,Marsabit,Laisamis,MAR-S2,2.39454,37.8773,64,S06,1.9,Within 5 km
+HH0346,Marsabit,Laisamis,MAR-S2,2.41362,37.8939,80,S06,1.36,Within 5 km
+HH0347,Marsabit,Laisamis,MAR-S2,2.39951,37.87174,79,S06,1.71,Within 5 km
+HH0348,Marsabit,Laisamis,MAR-S2,2.43216,37.85719,38,S06,3.63,Within 5 km
+HH0349,Marsabit,Laisamis,MAR-S2,2.37825,37.87879,29,S06,3.65,Within 5 km
+HH0350,Marsabit,Laisamis,MAR-S2,2.41917,37.8729,71,S06,1.36,Within 5 km
+HH0351,Marsabit,Moyale,MAR-S3,2.41006,38.06035,56,S05,10.77,Over 10 km
+HH0352,Marsabit,Moyale,MAR-S3,2.44317,38.10459,60,S05,16.85,Over 10 km
+HH0353,Marsabit,Moyale,MAR-S3,2.41903,38.10119,50,S05,14.82,Over 10 km
+HH0354,Marsabit,Moyale,MAR-S3,2.43529,38.12982,53,S05,18.46,Over 10 km
+HH0355,Marsabit,Moyale,MAR-S3,2.40923,38.11887,54,S05,15.87,Over 10 km
+HH0356,Marsabit,Moyale,MAR-S3,2.39965,38.06162,71,S05,10.06,Over 10 km
+HH0357,Marsabit,Moyale,MAR-S3,2.43659,38.07962,66,S05,14.39,Over 10 km
+HH0358,Marsabit,Moyale,MAR-S3,2.39952,38.11848,55,S05,15.33,Over 10 km
+HH0359,Marsabit,Moyale,MAR-S3,2.43987,38.09439,70,S05,15.78,Over 10 km
+HH0360,Marsabit,Moyale,MAR-S3,2.42087,38.08228,68,S05,13.34,Over 10 km
+HH0361,Marsabit,Moyale,MAR-S3,2.4357,38.10226,78,S05,16.09,Over 10 km
+HH0362,Marsabit,Moyale,MAR-S3,2.43689,38.10448,68,S05,16.36,Over 10 km
+HH0363,Marsabit,Moyale,MAR-S3,2.40492,38.10333,63,S05,14.14,Over 10 km
+HH0364,Marsabit,Moyale,MAR-S3,2.41718,38.10275,63,S05,14.84,Over 10 km
+HH0365,Marsabit,Moyale,MAR-S3,2.43769,38.13638,75,S05,19.21,Over 10 km
+HH0366,Marsabit,Moyale,MAR-S3,2.44088,38.09009,60,S05,15.53,Over 10 km
+HH0367,Marsabit,Moyale,MAR-S3,2.41684,38.13087,78,S05,17.45,Over 10 km
+HH0368,Marsabit,Moyale,MAR-S3,2.42733,38.10287,60,S05,15.54,Over 10 km
+HH0369,Marsabit,Moyale,MAR-S3,2.41682,38.08219,77,S05,13.03,Over 10 km
+HH0370,Marsabit,Moyale,MAR-S3,2.40681,38.10726,66,S05,14.62,Over 10 km
+HH0371,Marsabit,Moyale,MAR-S3,2.4241,38.099235,55,S05,15.0,Over 10 km
+HH0372,Marsabit,Moyale,MAR-S3,2.39774,38.08218,57,S05,11.73,Over 10 km
+HH0373,Marsabit,Moyale,MAR-S3,2.44069,38.07968,68,S05,14.75,Over 10 km
+HH0374,Marsabit,Moyale,MAR-S3,2.39553,38.12251,64,S05,15.55,Over 10 km
+HH0375,Marsabit,Moyale,MAR-S3,2.46579,38.11798,54,S05,19.67,Over 10 km
+HH0376,Marsabit,Moyale,MAR-S3,2.44087,38.09164,73,S05,15.65,Over 10 km
+HH0377,Marsabit,Moyale,MAR-S3,2.38438,38.10315,67,S05,13.08,Over 10 km
+HH0378,Marsabit,Moyale,MAR-S3,2.4241,38.099235,69,S05,15.0,Over 10 km
+HH0379,Marsabit,Moyale,MAR-S3,2.39986,38.08862,61,S05,12.46,Over 10 km
+HH0380,Marsabit,Moyale,MAR-S3,2.43706,38.11631,42,S05,17.38,Over 10 km
+HH0381,Marsabit,Moyale,MAR-S3,2.42023,38.1225,45,S05,16.85,Over 10 km
+HH0382,Marsabit,Moyale,MAR-S3,2.43275,38.09586,38,S05,15.35,Over 10 km
+HH0383,Marsabit,Moyale,MAR-S3,2.43617,38.09176,45,S05,15.28,Over 10 km
+HH0384,Marsabit,Moyale,MAR-S3,2.40695,38.10356,51,S05,14.28,Over 10 km
+HH0385,Marsabit,Moyale,MAR-S3,2.39789,38.09983,63,S05,13.41,Over 10 km
+HH0386,Marsabit,Moyale,MAR-S3,2.41568,38.06732,73,S05,11.75,Over 10 km
+HH0387,Marsabit,Moyale,MAR-S3,2.41082,38.12262,68,S05,16.32,Over 10 km
+HH0388,Marsabit,Moyale,MAR-S3,2.39958,38.09855,78,S05,13.38,Over 10 km
+HH0389,Marsabit,Moyale,MAR-S3,2.36934,38.10824,69,S05,13.08,Over 10 km
+HH0390,Marsabit,Moyale,MAR-S3,2.43388,38.12548,66,S05,17.97,Over 10 km
+HH0391,Marsabit,Moyale,MAR-S3,2.40801,38.09193,61,S05,13.27,Over 10 km
+HH0392,Marsabit,Moyale,MAR-S3,2.4284,38.13333,88,S05,18.35,Over 10 km
+HH0393,Marsabit,Moyale,MAR-S3,2.43488,38.0781,74,S05,14.14,Over 10 km
+HH0394,Marsabit,Moyale,MAR-S3,2.43078,38.08932,61,S05,14.67,Over 10 km
+HH0395,Marsabit,Moyale,MAR-S3,2.41445,38.06908,42,S05,11.79,Over 10 km
+HH0396,Marsabit,Moyale,MAR-S3,2.45127,38.08138,73,S05,15.78,Over 10 km
+HH0397,Marsabit,Moyale,MAR-S3,2.43462,38.09864,59,S05,15.71,Over 10 km
+HH0398,Marsabit,Moyale,MAR-S3,2.43926,38.09555,65,S05,15.82,Over 10 km
+HH0399,Marsabit,Moyale,MAR-S3,2.44303,38.09646,60,S05,16.19,Over 10 km
+HH0400,Marsabit,Moyale,MAR-S3,2.44508,38.09667,66,S05,16.37,Over 10 km
+HH0401,Marsabit,North Horr,MAR-S4,2.16664,38.02468,65,S08,7.19,5 to 10 km
+HH0402,Marsabit,North Horr,MAR-S4,2.21113,38.05857,85,S08,10.98,Over 10 km
+HH0403,Marsabit,North Horr,MAR-S4,2.17249,38.05826,59,S08,10.69,Over 10 km
+HH0404,Marsabit,North Horr,MAR-S4,2.18977,38.03566,54,S08,8.08,5 to 10 km
+HH0405,Marsabit,North Horr,MAR-S4,2.18905,38.0344,52,S08,7.94,5 to 10 km
+HH0406,Marsabit,North Horr,MAR-S4,2.20345,38.00979,39,S08,5.55,5 to 10 km
+HH0407,Marsabit,North Horr,MAR-S4,2.18369,38.06873,35,S08,11.75,Over 10 km
+HH0408,Marsabit,North Horr,MAR-S4,2.18606,38.03686,37,S08,8.21,5 to 10 km
+HH0409,Marsabit,North Horr,MAR-S4,2.20837,38.03373,67,S08,8.24,5 to 10 km
+HH0410,Marsabit,North Horr,MAR-S4,2.20887,38.02397,58,S08,7.23,5 to 10 km
+HH0411,Marsabit,North Horr,MAR-S4,2.21689,38.03973,60,S08,9.19,5 to 10 km
+HH0412,Marsabit,North Horr,MAR-S4,2.19806,38.02835,56,S08,7.38,5 to 10 km
+HH0413,Marsabit,North Horr,MAR-S4,2.21221,38.05566,65,S08,10.7,Over 10 km
+HH0414,Marsabit,North Horr,MAR-S4,2.19484,38.04827,67,S08,9.52,5 to 10 km
+HH0415,Marsabit,North Horr,MAR-S4,2.20578,38.03024,81,S08,7.79,5 to 10 km
+HH0416,Marsabit,North Horr,MAR-S4,2.18371,37.99765,82,S08,3.86,Within 5 km
+HH0417,Marsabit,North Horr,MAR-S4,2.17742,38.04013,83,S08,8.62,5 to 10 km
+HH0418,Marsabit,North Horr,MAR-S4,2.16316,38.03327,49,S08,8.21,5 to 10 km
+HH0419,Marsabit,North Horr,MAR-S4,2.21188,38.03184,66,S08,8.17,5 to 10 km
+HH0420,Marsabit,North Horr,MAR-S4,2.2014,37.9897,67,S08,3.42,Within 5 km
+HH0421,Marsabit,North Horr,MAR-S4,2.18378,38.03476,65,S08,7.98,5 to 10 km
+HH0422,Marsabit,North Horr,MAR-S4,2.18713,38.02384,40,S08,6.76,5 to 10 km
+HH0423,Marsabit,North Horr,MAR-S4,2.1904,38.0143,87,S08,5.72,5 to 10 km
+HH0424,Marsabit,North Horr,MAR-S4,2.18131,38.01681,61,S08,6.0,5 to 10 km
+HH0425,Marsabit,North Horr,MAR-S4,2.18848,38.04123,77,S08,8.7,5 to 10 km
+HH0426,Marsabit,North Horr,MAR-S4,2.15119,38.02438,51,S08,7.85,5 to 10 km
+HH0427,Marsabit,North Horr,MAR-S4,2.21974,38.03597,24,S08,8.93,5 to 10 km
+HH0428,Marsabit,North Horr,MAR-S4,2.22955,38.08374,47,S08,14.26,Over 10 km
+HH0429,Marsabit,North Horr,MAR-S4,2.19808,38.02115,78,S08,6.6,5 to 10 km
+HH0430,Marsabit,North Horr,MAR-S4,2.19095,38.02835,87,S08,7.28,5 to 10 km
+HH0431,Marsabit,North Horr,MAR-S4,2.20592,38.00459,66,S08,5.12,5 to 10 km
+HH0432,Marsabit,North Horr,MAR-S4,2.2136,37.98037,74,S08,3.62,Within 5 km
+HH0433,Marsabit,North Horr,MAR-S4,2.19768,38.02613,58,S08,7.13,5 to 10 km
+HH0434,Marsabit,North Horr,MAR-S4,2.18685,38.02023,74,S08,6.36,5 to 10 km
+HH0435,Marsabit,North Horr,MAR-S4,2.16683,38.02761,77,S08,7.49,5 to 10 km
+HH0436,Marsabit,North Horr,MAR-S4,2.23003,38.0345,89,S08,9.33,5 to 10 km
+HH0437,Marsabit,North Horr,MAR-S4,2.19806,38.06008,54,S08,10.87,Over 10 km
+HH0438,Marsabit,North Horr,MAR-S4,2.19344,38.01282,75,S08,5.6,5 to 10 km
+HH0439,Marsabit,North Horr,MAR-S4,2.22768,38.03636,77,S08,9.37,5 to 10 km
+HH0440,Marsabit,North Horr,MAR-S4,2.20399,38.01468,21,S08,6.08,5 to 10 km
+HH0441,Marsabit,North Horr,MAR-S4,2.2021,38.01855,55,S08,6.42,5 to 10 km
+HH0442,Marsabit,North Horr,MAR-S4,2.2291,38.04032,58,S08,9.83,5 to 10 km
+HH0443,Marsabit,North Horr,MAR-S4,2.202,38.02097,55,S08,6.68,5 to 10 km
+HH0444,Marsabit,North Horr,MAR-S4,2.23744,38.02935,86,S08,9.32,5 to 10 km
+HH0445,Marsabit,North Horr,MAR-S4,2.22068,38.01303,67,S08,6.76,5 to 10 km
+HH0446,Marsabit,North Horr,MAR-S4,2.19184,38.00911,73,S08,5.16,5 to 10 km
+HH0447,Marsabit,North Horr,MAR-S4,2.17845,38.01485,89,S08,5.82,5 to 10 km
+HH0448,Marsabit,North Horr,MAR-S4,2.16504,38.0384,56,S08,8.7,5 to 10 km
+HH0449,Marsabit,North Horr,MAR-S4,2.21089,38.00978,50,S08,5.88,5 to 10 km
+HH0450,Marsabit,North Horr,MAR-S4,2.20706,37.99203,77,S08,3.98,Within 5 km
+HH0451,Marsabit,North Horr,MAR-S5,2.2754,37.90362,80,S08,11.92,Over 10 km
+HH0452,Marsabit,North Horr,MAR-S5,2.27016,37.88667,73,S08,12.62,Over 10 km
+HH0453,Marsabit,North Horr,MAR-S5,2.24378,37.92907,66,S08,7.44,5 to 10 km
+HH0454,Marsabit,North Horr,MAR-S5,2.26782,37.90458,55,S08,11.17,Over 10 km
+HH0455,Marsabit,North Horr,MAR-S5,2.2474,37.91715,76,S08,8.51,5 to 10 km
+HH0456,Marsabit,North Horr,MAR-S5,2.2531,37.92175,62,S08,8.75,5 to 10 km
+HH0457,Marsabit,North Horr,MAR-S5,2.24994,37.91766,69,S08,8.7,5 to 10 km
+HH0458,Marsabit,North Horr,MAR-S5,2.26087,37.93426,55,S08,8.91,5 to 10 km
+HH0459,Marsabit,North Horr,MAR-S5,2.25059,37.8751,47,S08,12.12,Over 10 km
+HH0460,Marsabit,North Horr,MAR-S5,2.2503,37.89493,58,S08,10.4,Over 10 km
+HH0461,Marsabit,North Horr,MAR-S5,2.23878,37.88682,49,S08,10.29,Over 10 km
+HH0462,Marsabit,North Horr,MAR-S5,2.2814,37.88889,58,S05,13.37,Over 10 km
+HH0463,Marsabit,North Horr,MAR-S5,2.24913,37.87638,66,S08,11.91,Over 10 km
+HH0464,Marsabit,North Horr,MAR-S5,2.24752,37.90614,72,S08,9.3,5 to 10 km
+HH0465,Marsabit,North Horr,MAR-S5,2.23569,37.90846,58,S08,8.19,5 to 10 km
+HH0466,Marsabit,North Horr,MAR-S5,2.24553,37.9034,58,S08,9.36,5 to 10 km
+HH0467,Marsabit,North Horr,MAR-S5,2.24872,37.85892,49,S08,13.5,Over 10 km
+HH0468,Marsabit,North Horr,MAR-S5,2.25148,37.89337,77,S08,10.62,Over 10 km
+HH0469,Marsabit,North Horr,MAR-S5,2.26079,37.90822,40,S08,10.3,Over 10 km
+HH0470,Marsabit,North Horr,MAR-S5,2.26123,37.9535,54,S08,8.42,5 to 10 km
+HH0471,Marsabit,North Horr,MAR-S5,2.23648,37.89176,80,S08,9.7,5 to 10 km
+HH0472,Marsabit,North Horr,MAR-S5,2.25043,37.87973,63,S08,11.69,Over 10 km
+HH0473,Marsabit,North Horr,MAR-S5,2.26993,37.8914,54,S08,12.25,Over 10 km
+HH0474,Marsabit,North Horr,MAR-S5,2.24017,37.93109,63,S08,6.98,5 to 10 km
+HH0475,Marsabit,North Horr,MAR-S5,2.26521,37.87906,51,S08,12.82,Over 10 km
+HH0476,Marsabit,North Horr,MAR-S5,2.2599,37.88257,47,S08,12.13,Over 10 km
+HH0477,Marsabit,North Horr,MAR-S5,2.26938,37.91105,47,S08,10.91,Over 10 km
+HH0478,Marsabit,North Horr,MAR-S5,2.25817,37.90922,70,S08,10.0,5 to 10 km
+HH0479,Marsabit,North Horr,MAR-S5,2.24674,37.88539,39,S08,10.95,Over 10 km
+HH0480,Marsabit,North Horr,MAR-S5,2.256,37.91826,73,S08,9.23,5 to 10 km
+HH0481,Marsabit,North Horr,MAR-S5,2.2694,37.95586,43,S05,8.85,5 to 10 km
+HH0482,Marsabit,North Horr,MAR-S5,2.2491,37.89621,86,S08,10.21,Over 10 km
+HH0483,Marsabit,North Horr,MAR-S5,2.24921,37.90434,71,S08,9.58,5 to 10 km
+HH0484,Marsabit,North Horr,MAR-S5,2.25139,37.88403,42,S08,11.39,Over 10 km
+HH0485,Marsabit,North Horr,MAR-S5,2.27526,37.90222,57,S08,12.0,Over 10 km
+HH0486,Marsabit,North Horr,MAR-S5,2.28003,37.93059,68,S05,9.66,5 to 10 km
+HH0487,Marsabit,North Horr,MAR-S5,2.23477,37.90733,75,S08,8.22,5 to 10 km
+HH0488,Marsabit,North Horr,MAR-S5,2.24369,37.86724,45,S08,12.42,Over 10 km
+HH0489,Marsabit,North Horr,MAR-S5,2.23472,37.90968,81,S08,8.02,5 to 10 km
+HH0490,Marsabit,North Horr,MAR-S5,2.2508,37.88245,40,S08,11.48,Over 10 km
+HH0491,Marsabit,North Horr,MAR-S5,2.25528,37.92856,71,S08,8.59,5 to 10 km
+HH0492,Marsabit,North Horr,MAR-S5,2.23991,37.92532,60,S08,7.3,5 to 10 km
+HH0493,Marsabit,North Horr,MAR-S5,2.29212,37.88881,58,S05,12.85,Over 10 km
+HH0494,Marsabit,North Horr,MAR-S5,2.2614,37.90054,61,S08,10.88,Over 10 km
+HH0495,Marsabit,North Horr,MAR-S5,2.24911,37.90192,67,S08,9.75,5 to 10 km
+HH0496,Marsabit,North Horr,MAR-S5,2.25318,37.89478,74,S08,10.63,Over 10 km
+HH0497,Marsabit,North Horr,MAR-S5,2.23245,37.90881,61,S08,7.93,5 to 10 km
+HH0498,Marsabit,North Horr,MAR-S5,2.29616,37.89298,53,S05,12.24,Over 10 km
+HH0499,Marsabit,North Horr,MAR-S5,2.27329,37.89644,74,S08,12.19,Over 10 km
+HH0500,Marsabit,North Horr,MAR-S5,2.25782,37.89831,71,S08,10.74,Over 10 km
+HH0501,Isiolo,Isiolo North,ISI-S1,0.35515,37.594,79,S09,1.06,Within 5 km
+HH0502,Isiolo,Isiolo North,ISI-S1,0.34864,37.59955,63,S09,1.8,Within 5 km
+HH0503,Isiolo,Isiolo North,ISI-S1,0.35537,37.59674,64,S09,1.36,Within 5 km
+HH0504,Isiolo,Isiolo North,ISI-S1,0.35255,37.59328,44,S09,1.0,Within 5 km
+HH0505,Isiolo,Isiolo North,ISI-S1,0.35564,37.57558,79,S09,1.0,Within 5 km
+HH0506,Isiolo,Isiolo North,ISI-S1,0.3853,37.57883,67,S09,3.48,Within 5 km
+HH0507,Isiolo,Isiolo North,ISI-S1,0.36726,37.57838,37,S09,1.57,Within 5 km
+HH0508,Isiolo,Isiolo North,ISI-S1,0.35173,37.58052,63,S09,0.54,Within 5 km
+HH0509,Isiolo,Isiolo North,ISI-S1,0.36248,37.5531,76,S09,3.6,Within 5 km
+HH0510,Isiolo,Isiolo North,ISI-S1,0.37327,37.57879,54,S09,2.18,Within 5 km
+HH0511,Isiolo,Isiolo North,ISI-S1,0.33364,37.57942,60,S09,2.39,Within 5 km
+HH0512,Isiolo,Isiolo North,ISI-S1,0.34439,37.55621,64,S09,3.34,Within 5 km
+HH0513,Isiolo,Isiolo North,ISI-S1,0.32513,37.56032,67,S09,4.23,Within 5 km
+HH0514,Isiolo,Isiolo North,ISI-S1,0.34893,37.57157,65,S09,1.57,Within 5 km
+HH0515,Isiolo,Isiolo North,ISI-S1,0.36417,37.60975,71,S09,3.01,Within 5 km
+HH0516,Isiolo,Isiolo North,ISI-S1,0.36048,37.60299,57,S09,2.16,Within 5 km
+HH0517,Isiolo,Isiolo North,ISI-S1,0.33959,37.59658,69,S09,2.13,Within 5 km
+HH0518,Isiolo,Isiolo North,ISI-S1,0.36326,37.57948,57,S09,1.12,Within 5 km
+HH0519,Isiolo,Isiolo North,ISI-S1,0.35889,37.57389,100,S09,1.28,Within 5 km
+HH0520,Isiolo,Isiolo North,ISI-S1,0.30846,37.57419,60,S09,5.25,5 to 10 km
+HH0521,Isiolo,Isiolo North,ISI-S1,0.32445,37.59573,56,S09,3.57,Within 5 km
+HH0522,Isiolo,Isiolo North,ISI-S1,0.33174,37.5783,24,S09,2.62,Within 5 km
+HH0523,Isiolo,Isiolo North,ISI-S1,0.35553,37.57392,52,S09,1.18,Within 5 km
+HH0524,Isiolo,Isiolo North,ISI-S1,0.34884,37.56309,73,S09,2.46,Within 5 km
+HH0525,Isiolo,Isiolo North,ISI-S1,0.36513,37.57932,65,S09,1.31,Within 5 km
+HH0526,Isiolo,Isiolo North,ISI-S1,0.3328,37.58403,58,S09,2.41,Within 5 km
+HH0527,Isiolo,Isiolo North,ISI-S1,0.37609,37.57854,80,S09,2.49,Within 5 km
+HH0528,Isiolo,Isiolo North,ISI-S1,0.36079,37.55811,85,S09,3.02,Within 5 km
+HH0529,Isiolo,Isiolo North,ISI-S1,0.37374,37.57209,75,S09,2.55,Within 5 km
+HH0530,Isiolo,Isiolo North,ISI-S1,0.32732,37.59059,54,S09,3.1,Within 5 km
+HH0531,Isiolo,Isiolo North,ISI-S1,0.32107,37.60741,69,S09,4.51,Within 5 km
+HH0532,Isiolo,Isiolo North,ISI-S1,0.31873,37.58993,63,S09,4.02,Within 5 km
+HH0533,Isiolo,Isiolo North,ISI-S1,0.35566,37.58615,63,S09,0.22,Within 5 km
+HH0534,Isiolo,Isiolo North,ISI-S1,0.35194,37.54028,49,S09,4.93,Within 5 km
+HH0535,Isiolo,Isiolo North,ISI-S1,0.3429,37.58687,85,S09,1.32,Within 5 km
+HH0536,Isiolo,Isiolo North,ISI-S1,0.3568,37.57536,53,S09,1.05,Within 5 km
+HH0537,Isiolo,Isiolo North,ISI-S1,0.34707,37.55335,58,S09,3.56,Within 5 km
+HH0538,Isiolo,Isiolo North,ISI-S1,0.34425,37.56755,75,S09,2.2,Within 5 km
+HH0539,Isiolo,Isiolo North,ISI-S1,0.3401,37.56526,75,S09,2.67,Within 5 km
+HH0540,Isiolo,Isiolo North,ISI-S1,0.37654,37.6153,92,S09,4.21,Within 5 km
+HH0541,Isiolo,Isiolo North,ISI-S1,0.35215,37.59595,71,S09,1.3,Within 5 km
+HH0542,Isiolo,Isiolo North,ISI-S1,0.37201,37.61105,75,S09,3.54,Within 5 km
+HH0543,Isiolo,Isiolo North,ISI-S1,0.3118,37.57491,56,S09,4.87,Within 5 km
+HH0544,Isiolo,Isiolo North,ISI-S1,0.35049,37.5883,69,S09,0.61,Within 5 km
+HH0545,Isiolo,Isiolo North,ISI-S1,0.37196,37.59463,67,S09,2.24,Within 5 km
+HH0546,Isiolo,Isiolo North,ISI-S1,0.32139,37.58576,81,S09,3.68,Within 5 km
+HH0547,Isiolo,Isiolo North,ISI-S1,0.34234,37.60179,54,S09,2.35,Within 5 km
+HH0548,Isiolo,Isiolo North,ISI-S1,0.33307,37.61103,57,S09,3.79,Within 5 km
+HH0549,Isiolo,Isiolo North,ISI-S1,0.34911,37.57126,48,S09,1.59,Within 5 km
+HH0550,Isiolo,Isiolo North,ISI-S1,0.36536,37.56891,39,S09,2.11,Within 5 km
+HH0551,Isiolo,Garbatulla,ISI-S2,0.39126,37.67834,70,S10,2.45,Within 5 km
+HH0552,Isiolo,Garbatulla,ISI-S2,0.41796,37.63855,83,S10,4.03,Within 5 km
+HH0553,Isiolo,Garbatulla,ISI-S2,0.41108,37.67855,34,S10,0.5,Within 5 km
+HH0554,Isiolo,Garbatulla,ISI-S2,0.40041,37.66664,46,S10,1.64,Within 5 km
+HH0555,Isiolo,Garbatulla,ISI-S2,0.39457,37.68306,24,S10,2.26,Within 5 km
+HH0556,Isiolo,Garbatulla,ISI-S2,0.40833,37.64971,46,S10,2.8,Within 5 km
+HH0557,Isiolo,Garbatulla,ISI-S2,0.41698,37.65143,77,S10,2.6,Within 5 km
+HH0558,Isiolo,Garbatulla,ISI-S2,0.4401,37.67366,54,S10,3.02,Within 5 km
+HH0559,Isiolo,Garbatulla,ISI-S2,0.41999,37.67114,68,S10,0.86,Within 5 km
+HH0560,Isiolo,Garbatulla,ISI-S2,0.43102,37.64775,41,S10,3.58,Within 5 km
+HH0561,Isiolo,Garbatulla,ISI-S2,0.41995,37.66919,38,S10,0.97,Within 5 km
+HH0562,Isiolo,Garbatulla,ISI-S2,0.40532,37.67326,50,S10,0.86,Within 5 km
+HH0563,Isiolo,Garbatulla,ISI-S2,0.39953,37.65203,34,S10,2.9,Within 5 km
+HH0564,Isiolo,Garbatulla,ISI-S2,0.4344,37.70164,61,S10,3.85,Within 5 km
+HH0565,Isiolo,Garbatulla,ISI-S2,0.42347,37.67889,73,S10,1.27,Within 5 km
+HH0566,Isiolo,Garbatulla,ISI-S2,0.41659,37.6676,71,S10,0.86,Within 5 km
+HH0567,Isiolo,Garbatulla,ISI-S2,0.40326,37.71323,73,S10,4.45,Within 5 km
+HH0568,Isiolo,Garbatulla,ISI-S2,0.39303,37.66468,51,S10,2.47,Within 5 km
+HH0569,Isiolo,Garbatulla,ISI-S2,0.44225,37.70679,66,S10,4.85,Within 5 km
+HH0570,Isiolo,Garbatulla,ISI-S2,0.41576,37.65771,76,S10,1.89,Within 5 km
+HH0571,Isiolo,Garbatulla,ISI-S2,0.39041,37.64224,69,S10,4.37,Within 5 km
+HH0572,Isiolo,Garbatulla,ISI-S2,0.41593,37.65823,66,S10,1.83,Within 5 km
+HH0573,Isiolo,Garbatulla,ISI-S2,0.4287,37.69948,54,S10,3.29,Within 5 km
+HH0574,Isiolo,Garbatulla,ISI-S2,0.41078,37.67256,67,S10,0.32,Within 5 km
+HH0575,Isiolo,Garbatulla,ISI-S2,0.40578,37.70149,34,S10,3.11,Within 5 km
+HH0576,Isiolo,Garbatulla,ISI-S2,0.41306,37.69404,78,S10,2.18,Within 5 km
+HH0577,Isiolo,Garbatulla,ISI-S2,0.42837,37.66202,55,S10,2.2,Within 5 km
+HH0578,Isiolo,Garbatulla,ISI-S2,0.41649,37.64254,63,S10,3.57,Within 5 km
+HH0579,Isiolo,Garbatulla,ISI-S2,0.3804,37.65382,47,S10,4.28,Within 5 km
+HH0580,Isiolo,Garbatulla,ISI-S2,0.41226,37.6776,69,S10,0.36,Within 5 km
+HH0581,Isiolo,Garbatulla,ISI-S2,0.41929,37.67329,45,S10,0.72,Within 5 km
+HH0582,Isiolo,Garbatulla,ISI-S2,0.41562,37.68121,81,S10,0.81,Within 5 km
+HH0583,Isiolo,Garbatulla,ISI-S2,0.41134,37.68543,48,S10,1.24,Within 5 km
+HH0584,Isiolo,Garbatulla,ISI-S2,0.42767,37.67119,36,S10,1.67,Within 5 km
+HH0585,Isiolo,Garbatulla,ISI-S2,0.44862,37.68614,76,S10,4.17,Within 5 km
+HH0586,Isiolo,Garbatulla,ISI-S2,0.41494,37.63171,69,S10,4.76,Within 5 km
+HH0587,Isiolo,Garbatulla,ISI-S2,0.4185,37.69136,44,S10,1.98,Within 5 km
+HH0588,Isiolo,Garbatulla,ISI-S2,0.41273,37.67322,46,S10,0.14,Within 5 km
+HH0589,Isiolo,Garbatulla,ISI-S2,0.42782,37.68259,83,S10,1.89,Within 5 km
+HH0590,Isiolo,Garbatulla,ISI-S2,0.40648,37.69057,52,S10,1.93,Within 5 km
+HH0591,Isiolo,Garbatulla,ISI-S2,0.38558,37.65482,47,S10,3.74,Within 5 km
+HH0592,Isiolo,Garbatulla,ISI-S2,0.42611,37.71851,59,S10,5.11,5 to 10 km
+HH0593,Isiolo,Garbatulla,ISI-S2,0.45405,37.67033,87,S10,4.59,Within 5 km
+HH0594,Isiolo,Garbatulla,ISI-S2,0.41259,37.6656,50,S10,0.98,Within 5 km
+HH0595,Isiolo,Garbatulla,ISI-S2,0.38766,37.70155,72,S10,4.12,Within 5 km
+HH0596,Isiolo,Garbatulla,ISI-S2,0.41294,37.65617,72,S10,2.03,Within 5 km
+HH0597,Isiolo,Garbatulla,ISI-S2,0.42893,37.66998,81,S10,1.84,Within 5 km
+HH0598,Isiolo,Garbatulla,ISI-S2,0.41889,37.6683,78,S10,0.95,Within 5 km
+HH0599,Isiolo,Garbatulla,ISI-S2,0.42207,37.68441,52,S10,1.5,Within 5 km
+HH0600,Isiolo,Garbatulla,ISI-S2,0.42142,37.66339,48,S10,1.55,Within 5 km
+HH0601,Isiolo,Merti,ISI-S3,0.39763,37.50648,58,S11,1.25,Within 5 km
+HH0602,Isiolo,Merti,ISI-S3,0.39674,37.51542,60,S11,1.85,Within 5 km
+HH0603,Isiolo,Merti,ISI-S3,0.41011,37.48303,61,S11,2.29,Within 5 km
+HH0604,Isiolo,Merti,ISI-S3,0.41277,37.51534,70,S11,1.4,Within 5 km
+HH0605,Isiolo,Merti,ISI-S3,0.3876,37.509,59,S11,2.4,Within 5 km
+HH0606,Isiolo,Merti,ISI-S3,0.39016,37.51901,56,S11,2.66,Within 5 km
+HH0607,Isiolo,Merti,ISI-S3,0.38659,37.48428,76,S11,3.24,Within 5 km
+HH0608,Isiolo,Merti,ISI-S3,0.36411,37.49381,36,S11,5.05,5 to 10 km
+HH0609,Isiolo,Merti,ISI-S3,0.4211,37.50844,71,S11,1.51,Within 5 km
+HH0610,Isiolo,Merti,ISI-S3,0.40672,37.50419,19,S11,0.21,Within 5 km
+HH0611,Isiolo,Merti,ISI-S3,0.4086,37.48803,44,S11,1.73,Within 5 km
+HH0612,Isiolo,Merti,ISI-S3,0.38155,37.50106,73,S11,3.01,Within 5 km
+HH0613,Isiolo,Merti,ISI-S3,0.39273,37.49358,74,S11,2.07,Within 5 km
+HH0614,Isiolo,Merti,ISI-S3,0.37295,37.52271,57,S11,4.49,Within 5 km
+HH0615,Isiolo,Merti,ISI-S3,0.42221,37.49186,66,S11,2.01,Within 5 km
+HH0616,Isiolo,Merti,ISI-S3,0.4349,37.48994,63,S11,3.31,Within 5 km
+HH0617,Isiolo,Merti,ISI-S3,0.38446,37.48731,79,S11,3.22,Within 5 km
+HH0618,Isiolo,Merti,ISI-S3,0.39095,37.48157,65,S11,3.12,Within 5 km
+HH0619,Isiolo,Merti,ISI-S3,0.40869,37.49699,80,S11,0.73,Within 5 km
+HH0620,Isiolo,Merti,ISI-S3,0.36769,37.48196,66,S11,5.13,5 to 10 km
+HH0621,Isiolo,Merti,ISI-S3,0.42045,37.51358,51,S11,1.74,Within 5 km
+HH0622,Isiolo,Merti,ISI-S3,0.39172,37.52068,49,S11,2.66,Within 5 km
+HH0623,Isiolo,Merti,ISI-S3,0.42645,37.45934,69,S11,5.31,5 to 10 km
+HH0624,Isiolo,Merti,ISI-S3,0.40991,37.46194,82,S11,4.63,Within 5 km
+HH0625,Isiolo,Merti,ISI-S3,0.40231,37.51325,78,S11,1.28,Within 5 km
+HH0626,Isiolo,Merti,ISI-S3,0.40613,37.44703,57,S11,6.29,5 to 10 km
+HH0627,Isiolo,Merti,ISI-S3,0.43781,37.51397,52,S11,3.46,Within 5 km
+HH0628,Isiolo,Merti,ISI-S3,0.39348,37.51973,71,S11,2.45,Within 5 km
+HH0629,Isiolo,Merti,ISI-S3,0.40297,37.47773,54,S11,2.94,Within 5 km
+HH0630,Isiolo,Merti,ISI-S3,0.41605,37.51525,60,S11,1.55,Within 5 km
+HH0631,Isiolo,Merti,ISI-S3,0.42443,37.52084,36,S11,2.62,Within 5 km
+HH0632,Isiolo,Merti,ISI-S3,0.42179,37.47394,36,S11,3.61,Within 5 km
+HH0633,Isiolo,Merti,ISI-S3,0.43796,37.51636,89,S11,3.58,Within 5 km
+HH0634,Isiolo,Merti,ISI-S3,0.3852,37.51879,69,S11,3.09,Within 5 km
+HH0635,Isiolo,Merti,ISI-S3,0.3874,37.53512,59,S11,4.22,Within 5 km
+HH0636,Isiolo,Merti,ISI-S3,0.4233,37.53917,62,S11,4.29,Within 5 km
+HH0637,Isiolo,Merti,ISI-S3,0.41357,37.49998,83,S11,0.69,Within 5 km
+HH0638,Isiolo,Merti,ISI-S3,0.41683,37.50399,48,S11,0.93,Within 5 km
+HH0639,Isiolo,Merti,ISI-S3,0.3451,37.48453,96,S11,7.36,5 to 10 km
+HH0640,Isiolo,Merti,ISI-S3,0.37673,37.50233,65,S11,3.53,Within 5 km
+HH0641,Isiolo,Merti,ISI-S3,0.37482,37.50273,63,S11,3.74,Within 5 km
+HH0642,Isiolo,Merti,ISI-S3,0.40393,37.48418,88,S11,2.21,Within 5 km
+HH0643,Isiolo,Merti,ISI-S3,0.37574,37.48846,49,S11,4.01,Within 5 km
+HH0644,Isiolo,Merti,ISI-S3,0.41292,37.52239,68,S11,2.15,Within 5 km
+HH0645,Isiolo,Merti,ISI-S3,0.41715,37.48674,75,S11,2.1,Within 5 km
+HH0646,Isiolo,Merti,ISI-S3,0.39125,37.49512,66,S11,2.13,Within 5 km
+HH0647,Isiolo,Merti,ISI-S3,0.43156,37.52744,53,S11,3.7,Within 5 km
+HH0648,Isiolo,Merti,ISI-S3,0.40916,37.50422,74,S11,0.11,Within 5 km
+HH0649,Isiolo,Merti,ISI-S3,0.41374,37.48355,55,S11,2.3,Within 5 km
+HH0650,Isiolo,Merti,ISI-S3,0.41584,37.49391,81,S11,1.35,Within 5 km
+HH0651,Isiolo,Isiolo South,ISI-S4,0.24233,37.6143,71,S12,1.27,Within 5 km
+HH0652,Isiolo,Isiolo South,ISI-S4,0.2514,37.60413,76,S12,0.32,Within 5 km
+HH0653,Isiolo,Isiolo South,ISI-S4,0.25976,37.6288,46,S12,2.61,Within 5 km
+HH0654,Isiolo,Isiolo South,ISI-S4,0.26083,37.60441,70,S12,1.12,Within 5 km
+HH0655,Isiolo,Isiolo South,ISI-S4,0.25899,37.59188,29,S12,1.9,Within 5 km
+HH0656,Isiolo,Isiolo South,ISI-S4,0.25975,37.57486,73,S12,3.7,Within 5 km
+HH0657,Isiolo,Isiolo South,ISI-S4,0.25279,37.59691,49,S12,1.14,Within 5 km
+HH0658,Isiolo,Isiolo South,ISI-S4,0.25218,37.5825,58,S12,2.72,Within 5 km
+HH0659,Isiolo,Isiolo South,ISI-S4,0.23567,37.60441,92,S12,1.74,Within 5 km
+HH0660,Isiolo,Isiolo South,ISI-S4,0.26414,37.59763,30,S12,1.79,Within 5 km
+HH0661,Isiolo,Isiolo South,ISI-S4,0.2626,37.62206,62,S12,2.11,Within 5 km
+HH0662,Isiolo,Isiolo South,ISI-S4,0.26339,37.57311,86,S12,4.01,Within 5 km
+HH0663,Isiolo,Isiolo South,ISI-S4,0.26726,37.63425,48,S12,3.53,Within 5 km
+HH0664,Isiolo,Isiolo South,ISI-S4,0.238,37.60055,63,S12,1.62,Within 5 km
+HH0665,Isiolo,Isiolo South,ISI-S4,0.22711,37.59623,75,S12,2.92,Within 5 km
+HH0666,Isiolo,Isiolo South,ISI-S4,0.22562,37.58691,61,S12,3.6,Within 5 km
+HH0667,Isiolo,Isiolo South,ISI-S4,0.23975,37.58808,54,S12,2.45,Within 5 km
+HH0668,Isiolo,Isiolo South,ISI-S4,0.26527,37.64422,81,S12,4.43,Within 5 km
+HH0669,Isiolo,Isiolo South,ISI-S4,0.26993,37.6101,70,S12,2.13,Within 5 km
+HH0670,Isiolo,Isiolo South,ISI-S4,0.26265,37.6096,70,S12,1.32,Within 5 km
+HH0671,Isiolo,Isiolo South,ISI-S4,0.24803,37.60917,57,S12,0.42,Within 5 km
+HH0672,Isiolo,Isiolo South,ISI-S4,0.26638,37.60286,94,S12,1.76,Within 5 km
+HH0673,Isiolo,Isiolo South,ISI-S4,0.24583,37.58491,63,S12,2.52,Within 5 km
+HH0674,Isiolo,Isiolo South,ISI-S4,0.22066,37.63616,91,S12,4.69,Within 5 km
+HH0675,Isiolo,Isiolo South,ISI-S4,0.17934,37.64159,52,S12,8.86,5 to 10 km
+HH0676,Isiolo,Isiolo South,ISI-S4,0.26005,37.60599,44,S12,1.0,Within 5 km
+HH0677,Isiolo,Isiolo South,ISI-S4,0.25149,37.58057,65,S12,2.94,Within 5 km
+HH0678,Isiolo,Isiolo South,ISI-S4,0.26485,37.59327,74,S12,2.16,Within 5 km
+HH0679,Isiolo,Isiolo South,ISI-S4,0.26345,37.58338,83,S12,2.96,Within 5 km
+HH0680,Isiolo,Isiolo South,ISI-S4,0.28394,37.57459,58,S12,5.13,5 to 10 km
+HH0681,Isiolo,Isiolo South,ISI-S4,0.26721,37.60596,53,S12,1.8,Within 5 km
+HH0682,Isiolo,Isiolo South,ISI-S4,0.26514,37.60226,60,S12,1.65,Within 5 km
+HH0683,Isiolo,Isiolo South,ISI-S4,0.26631,37.58453,57,S12,3.02,Within 5 km
+HH0684,Isiolo,Isiolo South,ISI-S4,0.23354,37.59558,81,S12,2.33,Within 5 km
+HH0685,Isiolo,Isiolo South,ISI-S4,0.2341,37.57877,76,S12,3.66,Within 5 km
+HH0686,Isiolo,Isiolo South,ISI-S4,0.25534,37.61903,62,S12,1.42,Within 5 km
+HH0687,Isiolo,Isiolo South,ISI-S4,0.25534,37.60441,75,S12,0.55,Within 5 km
+HH0688,Isiolo,Isiolo South,ISI-S4,0.26646,37.60188,63,S12,1.8,Within 5 km
+HH0689,Isiolo,Isiolo South,ISI-S4,0.23771,37.60966,61,S12,1.52,Within 5 km
+HH0690,Isiolo,Isiolo South,ISI-S4,0.23503,37.60664,43,S12,1.78,Within 5 km
+HH0691,Isiolo,Isiolo South,ISI-S4,0.24754,37.62363,72,S12,1.89,Within 5 km
+HH0692,Isiolo,Isiolo South,ISI-S4,0.26117,37.63824,38,S12,3.65,Within 5 km
+HH0693,Isiolo,Isiolo South,ISI-S4,0.24696,37.62929,48,S12,2.52,Within 5 km
+HH0694,Isiolo,Isiolo South,ISI-S4,0.24439,37.60651,69,S12,0.74,Within 5 km
+HH0695,Isiolo,Isiolo South,ISI-S4,0.23902,37.63906,55,S12,3.81,Within 5 km
+HH0696,Isiolo,Isiolo South,ISI-S4,0.26962,37.61559,90,S12,2.27,Within 5 km
+HH0697,Isiolo,Isiolo South,ISI-S4,0.25395,37.64698,53,S12,4.46,Within 5 km
+HH0698,Isiolo,Isiolo South,ISI-S4,0.25273,37.57866,60,S12,3.15,Within 5 km
+HH0699,Isiolo,Isiolo South,ISI-S4,0.26148,37.62926,67,S12,2.73,Within 5 km
+HH0700,Isiolo,Isiolo South,ISI-S4,0.25661,37.60424,63,S12,0.69,Within 5 km
+HH0701,Isiolo,Isiolo North,ISI-S5,0.30385,37.54505,55,S09,7.14,5 to 10 km
+HH0702,Isiolo,Isiolo North,ISI-S5,0.27595,37.53135,88,S12,8.85,5 to 10 km
+HH0703,Isiolo,Isiolo North,ISI-S5,0.29291,37.52666,84,S09,9.39,5 to 10 km
+HH0704,Isiolo,Isiolo North,ISI-S5,0.30436,37.54567,48,S09,7.05,5 to 10 km
+HH0705,Isiolo,Isiolo North,ISI-S5,0.2895,37.52693,25,S09,9.65,5 to 10 km
+HH0706,Isiolo,Isiolo North,ISI-S5,0.297,37.53788,75,S09,8.23,5 to 10 km
+HH0707,Isiolo,Isiolo North,ISI-S5,0.33065,37.55619,51,S09,4.12,Within 5 km
+HH0708,Isiolo,Isiolo North,ISI-S5,0.30094,37.56433,71,S09,6.36,5 to 10 km
+HH0709,Isiolo,Isiolo North,ISI-S5,0.30468,37.50043,48,S09,10.87,Over 10 km
+HH0710,Isiolo,Isiolo North,ISI-S5,0.26879,37.54182,70,S12,7.51,5 to 10 km
+HH0711,Isiolo,Isiolo North,ISI-S5,0.30537,37.49344,51,S09,11.51,Over 10 km
+HH0712,Isiolo,Isiolo North,ISI-S5,0.28888,37.50963,56,S09,11.07,Over 10 km
+HH0713,Isiolo,Isiolo North,ISI-S5,0.32522,37.55657,50,S09,4.5,Within 5 km
+HH0714,Isiolo,Isiolo North,ISI-S5,0.30663,37.54287,47,S09,7.05,5 to 10 km
+HH0715,Isiolo,Isiolo North,ISI-S5,0.32709,37.52938,43,S09,6.84,5 to 10 km
+HH0716,Isiolo,Isiolo North,ISI-S5,0.32641,37.54495,39,S09,5.39,5 to 10 km
+HH0717,Isiolo,Isiolo North,ISI-S5,0.28908,37.52734,61,S09,9.66,5 to 10 km
+HH0718,Isiolo,Isiolo North,ISI-S5,0.29428,37.54586,44,S09,7.96,5 to 10 km
+HH0719,Isiolo,Isiolo North,ISI-S5,0.29387,37.55897,73,S12,7.15,5 to 10 km
+HH0720,Isiolo,Isiolo North,ISI-S5,0.30536,37.57667,40,S09,5.53,5 to 10 km
+HH0721,Isiolo,Isiolo North,ISI-S5,0.28465,37.51982,39,S12,10.39,Over 10 km
+HH0722,Isiolo,Isiolo North,ISI-S5,0.29478,37.54657,74,S09,7.87,5 to 10 km
+HH0723,Isiolo,Isiolo North,ISI-S5,0.31542,37.51444,77,S09,8.92,5 to 10 km
+HH0724,Isiolo,Isiolo North,ISI-S5,0.32732,37.53653,78,S09,6.13,5 to 10 km
+HH0725,Isiolo,Isiolo North,ISI-S5,0.32388,37.55767,77,S09,4.53,Within 5 km
+HH0726,Isiolo,Isiolo North,ISI-S5,0.31587,37.51593,55,S09,8.75,5 to 10 km
+HH0727,Isiolo,Isiolo North,ISI-S5,0.28018,37.53514,60,S12,8.62,5 to 10 km
+HH0728,Isiolo,Isiolo North,ISI-S5,0.29364,37.50272,55,S09,11.34,Over 10 km
+HH0729,Isiolo,Isiolo North,ISI-S5,0.31167,37.51935,73,S09,8.67,5 to 10 km
+HH0730,Isiolo,Isiolo North,ISI-S5,0.31153,37.51623,72,S09,8.97,5 to 10 km
+HH0731,Isiolo,Isiolo North,ISI-S5,0.30751,37.53489,63,S09,7.6,5 to 10 km
+HH0732,Isiolo,Isiolo North,ISI-S5,0.32802,37.53257,74,S09,6.48,5 to 10 km
+HH0733,Isiolo,Isiolo North,ISI-S5,0.309,37.51583,50,S09,9.16,5 to 10 km
+HH0734,Isiolo,Isiolo North,ISI-S5,0.28681,37.54081,55,S12,8.36,5 to 10 km
+HH0735,Isiolo,Isiolo North,ISI-S5,0.27134,37.55547,67,S12,6.16,5 to 10 km
+HH0736,Isiolo,Isiolo North,ISI-S5,0.3363,37.53143,80,S09,6.24,5 to 10 km
+HH0737,Isiolo,Isiolo North,ISI-S5,0.32567,37.49701,63,S11,9.23,5 to 10 km
+HH0738,Isiolo,Isiolo North,ISI-S5,0.30058,37.50045,77,S09,11.1,Over 10 km
+HH0739,Isiolo,Isiolo North,ISI-S5,0.29039,37.52019,28,S09,10.1,Over 10 km
+HH0740,Isiolo,Isiolo North,ISI-S5,0.31476,37.54862,50,S09,5.95,5 to 10 km
+HH0741,Isiolo,Isiolo North,ISI-S5,0.33043,37.53687,80,S09,5.93,5 to 10 km
+HH0742,Isiolo,Isiolo North,ISI-S5,0.33731,37.53879,81,S09,5.43,5 to 10 km
+HH0743,Isiolo,Isiolo North,ISI-S5,0.32477,37.54439,79,S09,5.55,5 to 10 km
+HH0744,Isiolo,Isiolo North,ISI-S5,0.27951,37.54675,70,S12,7.41,5 to 10 km
+HH0745,Isiolo,Isiolo North,ISI-S5,0.30824,37.54289,63,S09,6.92,5 to 10 km
+HH0746,Isiolo,Isiolo North,ISI-S5,0.31128,37.54209,69,S09,6.73,5 to 10 km
+HH0747,Isiolo,Isiolo North,ISI-S5,0.31439,37.55486,84,S09,5.55,5 to 10 km
+HH0748,Isiolo,Isiolo North,ISI-S5,0.2976,37.56183,45,S09,6.81,5 to 10 km
+HH0749,Isiolo,Isiolo North,ISI-S5,0.29584,37.50928,67,S09,10.61,Over 10 km
+HH0750,Isiolo,Isiolo North,ISI-S5,0.31142,37.50372,66,S09,10.18,Over 10 km
+HH0751,Garissa,Garissa Township,GAR-S1,-0.44472,39.65793,71,S13,0.15,Within 5 km
+HH0752,Garissa,Garissa Township,GAR-S1,-0.43195,39.65652,48,S13,1.53,Within 5 km
+HH0753,Garissa,Garissa Township,GAR-S1,-0.43415,39.63578,64,S13,2.87,Within 5 km
+HH0754,Garissa,Garissa Township,GAR-S1,-0.45055,39.64631,37,S13,1.52,Within 5 km
+HH0755,Garissa,Garissa Township,GAR-S1,-0.4407,39.62586,59,S13,3.72,Within 5 km
+HH0756,Garissa,Garissa Township,GAR-S1,-0.45065,39.66194,65,S13,0.66,Within 5 km
+HH0757,Garissa,Garissa Township,GAR-S1,-0.47066,39.62026,74,S13,5.14,5 to 10 km
+HH0758,Garissa,Garissa Township,GAR-S1,-0.45146,39.64035,52,S13,2.18,Within 5 km
+HH0759,Garissa,Garissa Township,GAR-S1,-0.44919,39.62407,67,S13,3.9,Within 5 km
+HH0760,Garissa,Garissa Township,GAR-S1,-0.43805,39.64155,65,S13,2.11,Within 5 km
+HH0761,Garissa,Garissa Township,GAR-S1,-0.42966,39.6776,69,S13,2.72,Within 5 km
+HH0762,Garissa,Garissa Township,GAR-S1,-0.43353,39.63554,64,S13,2.93,Within 5 km
+HH0763,Garissa,Garissa Township,GAR-S1,-0.45862,39.63735,62,S13,2.81,Within 5 km
+HH0764,Garissa,Garissa Township,GAR-S1,-0.44596,39.67476,58,S13,1.75,Within 5 km
+HH0765,Garissa,Garissa Township,GAR-S1,-0.4386,39.66086,60,S13,0.79,Within 5 km
+HH0766,Garissa,Garissa Township,GAR-S1,-0.45567,39.62366,58,S13,4.09,Within 5 km
+HH0767,Garissa,Garissa Township,GAR-S1,-0.43406,39.65805,88,S13,1.28,Within 5 km
+HH0768,Garissa,Garissa Township,GAR-S1,-0.46622,39.64331,47,S13,2.89,Within 5 km
+HH0769,Garissa,Garissa Township,GAR-S1,-0.43775,39.66862,60,S13,1.37,Within 5 km
+HH0770,Garissa,Garissa Township,GAR-S1,-0.48308,39.66028,80,S13,4.18,Within 5 km
+HH0771,Garissa,Garissa Township,GAR-S1,-0.47273,39.66211,69,S13,3.05,Within 5 km
+HH0772,Garissa,Garissa Township,GAR-S1,-0.44457,39.6502,70,S13,0.98,Within 5 km
+HH0773,Garissa,Garissa Township,GAR-S1,-0.43117,39.66667,65,S13,1.81,Within 5 km
+HH0774,Garissa,Garissa Township,GAR-S1,-0.42025,39.64403,63,S13,3.26,Within 5 km
+HH0775,Garissa,Garissa Township,GAR-S1,-0.49649,39.67985,64,S13,6.13,5 to 10 km
+HH0776,Garissa,Garissa Township,GAR-S1,-0.43859,39.65864,71,S13,0.77,Within 5 km
+HH0777,Garissa,Garissa Township,GAR-S1,-0.44067,39.6781,48,S13,2.19,Within 5 km
+HH0778,Garissa,Garissa Township,GAR-S1,-0.45586,39.6575,40,S13,1.16,Within 5 km
+HH0779,Garissa,Garissa Township,GAR-S1,-0.43772,39.64478,74,S13,1.8,Within 5 km
+HH0780,Garissa,Garissa Township,GAR-S1,-0.45202,39.64793,52,S13,1.43,Within 5 km
+HH0781,Garissa,Garissa Township,GAR-S1,-0.42986,39.67796,82,S13,2.73,Within 5 km
+HH0782,Garissa,Garissa Township,GAR-S1,-0.44884,39.67922,40,S13,2.28,Within 5 km
+HH0783,Garissa,Garissa Township,GAR-S1,-0.46127,39.6678,65,S13,2.01,Within 5 km
+HH0784,Garissa,Garissa Township,GAR-S1,-0.47557,39.6423,52,S13,3.82,Within 5 km
+HH0785,Garissa,Garissa Township,GAR-S1,-0.47048,39.64151,85,S13,3.39,Within 5 km
+HH0786,Garissa,Garissa Township,GAR-S1,-0.45129,39.63769,48,S13,2.45,Within 5 km
+HH0787,Garissa,Garissa Township,GAR-S1,-0.41627,39.64927,62,S13,3.43,Within 5 km
+HH0788,Garissa,Garissa Township,GAR-S1,-0.47368,39.66118,56,S13,3.14,Within 5 km
+HH0789,Garissa,Garissa Township,GAR-S1,-0.4552,39.61995,100,S13,4.47,Within 5 km
+HH0790,Garissa,Garissa Township,GAR-S1,-0.43846,39.65943,72,S13,0.78,Within 5 km
+HH0791,Garissa,Garissa Township,GAR-S1,-0.46307,39.63474,79,S13,3.33,Within 5 km
+HH0792,Garissa,Garissa Township,GAR-S1,-0.47638,39.63629,49,S13,4.26,Within 5 km
+HH0793,Garissa,Garissa Township,GAR-S1,-0.4317,39.6352,67,S13,3.06,Within 5 km
+HH0794,Garissa,Garissa Township,GAR-S1,-0.44742,39.62585,54,S13,3.69,Within 5 km
+HH0795,Garissa,Garissa Township,GAR-S1,-0.43689,39.65438,52,S13,1.09,Within 5 km
+HH0796,Garissa,Garissa Township,GAR-S1,-0.43482,39.6332,55,S13,3.1,Within 5 km
+HH0797,Garissa,Garissa Township,GAR-S1,-0.44886,39.64123,64,S13,2.01,Within 5 km
+HH0798,Garissa,Garissa Township,GAR-S1,-0.43638,39.64267,45,S13,2.08,Within 5 km
+HH0799,Garissa,Garissa Township,GAR-S1,-0.45769,39.66132,60,S13,1.38,Within 5 km
+HH0800,Garissa,Garissa Township,GAR-S1,-0.40745,39.63636,68,S13,4.92,Within 5 km
+HH0801,Garissa,Balambala,GAR-S2,-0.48486,39.80709,48,S14,5.18,5 to 10 km
+HH0802,Garissa,Balambala,GAR-S2,-0.50733,39.7616,70,S14,0.6,Within 5 km
+HH0803,Garissa,Balambala,GAR-S2,-0.49549,39.78355,77,S14,2.35,Within 5 km
+HH0804,Garissa,Balambala,GAR-S2,-0.47528,39.76847,41,S14,3.69,Within 5 km
+HH0805,Garissa,Balambala,GAR-S2,-0.50289,39.77427,73,S14,1.03,Within 5 km
+HH0806,Garissa,Balambala,GAR-S2,-0.51985,39.78413,41,S14,2.29,Within 5 km
+HH0807,Garissa,Balambala,GAR-S2,-0.53731,39.75448,48,S14,3.49,Within 5 km
+HH0808,Garissa,Balambala,GAR-S2,-0.50404,39.75568,46,S14,1.34,Within 5 km
+HH0809,Garissa,Balambala,GAR-S2,-0.52325,39.82463,44,S14,6.62,5 to 10 km
+HH0810,Garissa,Balambala,GAR-S2,-0.50828,39.77833,49,S14,1.27,Within 5 km
+HH0811,Garissa,Balambala,GAR-S2,-0.4999,39.76722,58,S14,0.95,Within 5 km
+HH0812,Garissa,Balambala,GAR-S2,-0.48638,39.78955,59,S14,3.52,Within 5 km
+HH0813,Garissa,Balambala,GAR-S2,-0.49721,39.78666,70,S14,2.53,Within 5 km
+HH0814,Garissa,Balambala,GAR-S2,-0.49221,39.82434,84,S14,6.64,5 to 10 km
+HH0815,Garissa,Balambala,GAR-S2,-0.50327,39.79491,92,S14,3.17,Within 5 km
+HH0816,Garissa,Balambala,GAR-S2,-0.49571,39.77072,67,S14,1.48,Within 5 km
+HH0817,Garissa,Balambala,GAR-S2,-0.51223,39.77636,62,S14,1.13,Within 5 km
+HH0818,Garissa,Balambala,GAR-S2,-0.48782,39.79041,43,S14,3.48,Within 5 km
+HH0819,Garissa,Balambala,GAR-S2,-0.48359,39.7759,64,S14,2.94,Within 5 km
+HH0820,Garissa,Balambala,GAR-S2,-0.5248,39.75047,65,S14,2.58,Within 5 km
+HH0821,Garissa,Balambala,GAR-S2,-0.50933,39.78492,81,S14,2.0,Within 5 km
+HH0822,Garissa,Balambala,GAR-S2,-0.49311,39.75141,65,S14,2.43,Within 5 km
+HH0823,Garissa,Balambala,GAR-S2,-0.46099,39.75312,65,S14,5.5,5 to 10 km
+HH0824,Garissa,Balambala,GAR-S2,-0.49495,39.80025,49,S14,4.0,Within 5 km
+HH0825,Garissa,Balambala,GAR-S2,-0.50272,39.76171,84,S14,0.86,Within 5 km
+HH0826,Garissa,Balambala,GAR-S2,-0.48481,39.79478,51,S14,4.06,Within 5 km
+HH0827,Garissa,Balambala,GAR-S2,-0.50588,39.74534,78,S14,2.42,Within 5 km
+HH0828,Garissa,Balambala,GAR-S2,-0.49201,39.78179,55,S14,2.47,Within 5 km
+HH0829,Garissa,Balambala,GAR-S2,-0.5112,39.7665,37,S14,0.31,Within 5 km
+HH0830,Garissa,Balambala,GAR-S2,-0.48968,39.81081,40,S14,5.31,5 to 10 km
+HH0831,Garissa,Balambala,GAR-S2,-0.49462,39.79536,84,S14,3.52,Within 5 km
+HH0832,Garissa,Balambala,GAR-S2,-0.52273,39.78868,56,S14,2.89,Within 5 km
+HH0833,Garissa,Balambala,GAR-S2,-0.50022,39.78965,48,S14,2.69,Within 5 km
+HH0834,Garissa,Balambala,GAR-S2,-0.50671,39.78838,64,S14,2.39,Within 5 km
+HH0835,Garissa,Balambala,GAR-S2,-0.5226,39.78768,88,S14,2.79,Within 5 km
+HH0836,Garissa,Balambala,GAR-S2,-0.48155,39.77188,49,S14,3.04,Within 5 km
+HH0837,Garissa,Balambala,GAR-S2,-0.51907,39.78482,76,S14,2.31,Within 5 km
+HH0838,Garissa,Balambala,GAR-S2,-0.51063,39.77819,80,S14,1.28,Within 5 km
+HH0839,Garissa,Balambala,GAR-S2,-0.51653,39.78075,62,S14,1.78,Within 5 km
+HH0840,Garissa,Balambala,GAR-S2,-0.51391,39.78395,74,S14,1.99,Within 5 km
+HH0841,Garissa,Balambala,GAR-S2,-0.53076,39.78141,64,S14,2.96,Within 5 km
+HH0842,Garissa,Balambala,GAR-S2,-0.52298,39.79502,51,S14,3.52,Within 5 km
+HH0843,Garissa,Balambala,GAR-S2,-0.50998,39.78781,68,S14,2.33,Within 5 km
+HH0844,Garissa,Balambala,GAR-S2,-0.53081,39.80017,72,S14,4.45,Within 5 km
+HH0845,Garissa,Balambala,GAR-S2,-0.52403,39.78002,63,S14,2.26,Within 5 km
+HH0846,Garissa,Balambala,GAR-S2,-0.51149,39.75639,61,S14,1.22,Within 5 km
+HH0847,Garissa,Balambala,GAR-S2,-0.53896,39.76819,46,S14,3.39,Within 5 km
+HH0848,Garissa,Balambala,GAR-S2,-0.48755,39.79001,84,S14,3.46,Within 5 km
+HH0849,Garissa,Balambala,GAR-S2,-0.49526,39.80748,57,S14,4.74,Within 5 km
+HH0850,Garissa,Balambala,GAR-S2,-0.50404,39.78355,66,S14,1.91,Within 5 km
+HH0851,Garissa,Lagdera,GAR-S3,-0.52897,39.5682,45,S15,2.61,Within 5 km
+HH0852,Garissa,Lagdera,GAR-S3,-0.51844,39.50484,77,S15,5.18,5 to 10 km
+HH0853,Garissa,Lagdera,GAR-S3,-0.51541,39.53671,52,S15,1.62,Within 5 km
+HH0854,Garissa,Lagdera,GAR-S3,-0.49639,39.54369,53,S15,2.02,Within 5 km
+HH0855,Garissa,Lagdera,GAR-S3,-0.52463,39.51989,54,S15,3.7,Within 5 km
+HH0856,Garissa,Lagdera,GAR-S3,-0.49893,39.52897,50,S15,2.91,Within 5 km
+HH0857,Garissa,Lagdera,GAR-S3,-0.50125,39.54918,66,S15,1.32,Within 5 km
+HH0858,Garissa,Lagdera,GAR-S3,-0.52615,39.54644,50,S15,1.55,Within 5 km
+HH0859,Garissa,Lagdera,GAR-S3,-0.52369,39.54634,71,S15,1.3,Within 5 km
+HH0860,Garissa,Lagdera,GAR-S3,-0.51109,39.54146,58,S15,1.09,Within 5 km
+HH0861,Garissa,Lagdera,GAR-S3,-0.54035,39.53774,38,S15,3.39,Within 5 km
+HH0862,Garissa,Lagdera,GAR-S3,-0.47833,39.55354,64,S15,3.86,Within 5 km
+HH0863,Garissa,Lagdera,GAR-S3,-0.52265,39.53248,84,S15,2.33,Within 5 km
+HH0864,Garissa,Lagdera,GAR-S3,-0.56052,39.56633,66,S15,5.55,5 to 10 km
+HH0865,Garissa,Lagdera,GAR-S3,-0.50914,39.57366,68,S15,2.55,Within 5 km
+HH0866,Garissa,Lagdera,GAR-S3,-0.54264,39.53638,75,S15,3.68,Within 5 km
+HH0867,Garissa,Lagdera,GAR-S3,-0.50902,39.5377,64,S15,1.55,Within 5 km
+HH0868,Garissa,Lagdera,GAR-S3,-0.53915,39.56821,74,S15,3.48,Within 5 km
+HH0869,Garissa,Lagdera,GAR-S3,-0.53728,39.5628,83,S15,3.0,Within 5 km
+HH0870,Garissa,Lagdera,GAR-S3,-0.51654,39.55395,83,S15,0.51,Within 5 km
+HH0871,Garissa,Lagdera,GAR-S3,-0.51946,39.50804,57,S15,4.84,Within 5 km
+HH0872,Garissa,Lagdera,GAR-S3,-0.52929,39.53748,58,S15,2.36,Within 5 km
+HH0873,Garissa,Lagdera,GAR-S3,-0.51948,39.5586,67,S15,1.11,Within 5 km
+HH0874,Garissa,Lagdera,GAR-S3,-0.53966,39.5309,70,S15,3.72,Within 5 km
+HH0875,Garissa,Lagdera,GAR-S3,-0.50671,39.53503,35,S15,1.91,Within 5 km
+HH0876,Garissa,Lagdera,GAR-S3,-0.56139,39.5508,59,S15,5.39,5 to 10 km
+HH0877,Garissa,Lagdera,GAR-S3,-0.51987,39.52088,66,S15,3.44,Within 5 km
+HH0878,Garissa,Lagdera,GAR-S3,-0.54055,39.56777,58,S15,3.59,Within 5 km
+HH0879,Garissa,Lagdera,GAR-S3,-0.51251,39.55569,65,S15,0.52,Within 5 km
+HH0880,Garissa,Lagdera,GAR-S3,-0.53956,39.5542,98,S15,2.98,Within 5 km
+HH0881,Garissa,Lagdera,GAR-S3,-0.46111,39.54138,87,S15,5.87,5 to 10 km
+HH0882,Garissa,Lagdera,GAR-S3,-0.55909,39.57948,82,S15,6.02,5 to 10 km
+HH0883,Garissa,Lagdera,GAR-S3,-0.52615,39.5441,64,S15,1.66,Within 5 km
+HH0884,Garissa,Lagdera,GAR-S3,-0.52916,39.54763,65,S15,1.84,Within 5 km
+HH0885,Garissa,Lagdera,GAR-S3,-0.55386,39.53665,42,S15,4.82,Within 5 km
+HH0886,Garissa,Lagdera,GAR-S3,-0.53339,39.5441,77,S15,2.4,Within 5 km
+HH0887,Garissa,Lagdera,GAR-S3,-0.54011,39.51441,72,S15,5.07,5 to 10 km
+HH0888,Garissa,Lagdera,GAR-S3,-0.50902,39.53409,72,S15,1.94,Within 5 km
+HH0889,Garissa,Lagdera,GAR-S3,-0.5403,39.53715,72,S15,3.41,Within 5 km
+HH0890,Garissa,Lagdera,GAR-S3,-0.51308,39.57035,69,S15,2.14,Within 5 km
+HH0891,Garissa,Lagdera,GAR-S3,-0.48713,39.53968,66,S15,3.14,Within 5 km
+HH0892,Garissa,Lagdera,GAR-S3,-0.52632,39.56549,44,S15,2.19,Within 5 km
+HH0893,Garissa,Lagdera,GAR-S3,-0.53748,39.53472,42,S15,3.28,Within 5 km
+HH0894,Garissa,Lagdera,GAR-S3,-0.52864,39.5496,62,S15,1.75,Within 5 km
+HH0895,Garissa,Lagdera,GAR-S3,-0.53796,39.56695,44,S15,3.29,Within 5 km
+HH0896,Garissa,Lagdera,GAR-S3,-0.49095,39.54907,58,S15,2.46,Within 5 km
+HH0897,Garissa,Lagdera,GAR-S3,-0.53095,39.56202,52,S15,2.34,Within 5 km
+HH0898,Garissa,Lagdera,GAR-S3,-0.5398,39.53032,82,S15,3.77,Within 5 km
+HH0899,Garissa,Lagdera,GAR-S3,-0.53146,39.54393,64,S15,2.2,Within 5 km
+HH0900,Garissa,Lagdera,GAR-S3,-0.48639,39.54603,61,S15,3.01,Within 5 km
+HH0901,Garissa,Dadaab,GAR-S4,-0.29023,39.66988,75,S16,9.95,5 to 10 km
+HH0902,Garissa,Dadaab,GAR-S4,-0.34082,39.72754,63,S16,5.13,5 to 10 km
+HH0903,Garissa,Dadaab,GAR-S4,-0.30689,39.7255,64,S16,3.61,Within 5 km
+HH0904,Garissa,Dadaab,GAR-S4,-0.32691,39.69404,71,S16,7.47,5 to 10 km
+HH0905,Garissa,Dadaab,GAR-S4,-0.30717,39.69944,68,S16,6.5,5 to 10 km
+HH0906,Garissa,Dadaab,GAR-S4,-0.33558,39.68625,56,S16,8.62,5 to 10 km
+HH0907,Garissa,Dadaab,GAR-S4,-0.30921,39.72024,72,S16,4.21,Within 5 km
+HH0908,Garissa,Dadaab,GAR-S4,-0.3174,39.71601,72,S16,4.83,Within 5 km
+HH0909,Garissa,Dadaab,GAR-S4,-0.29909,39.6625,60,S16,10.64,Over 10 km
+HH0910,Garissa,Dadaab,GAR-S4,-0.31276,39.68749,68,S16,7.87,5 to 10 km
+HH0911,Garissa,Dadaab,GAR-S4,-0.28395,39.6611,45,S16,11.04,Over 10 km
+HH0912,Garissa,Dadaab,GAR-S4,-0.32043,39.70219,87,S16,6.4,5 to 10 km
+HH0913,Garissa,Dadaab,GAR-S4,-0.289,39.69346,79,S16,7.42,5 to 10 km
+HH0914,Garissa,Dadaab,GAR-S4,-0.31164,39.67057,68,S16,9.73,5 to 10 km
+HH0915,Garissa,Dadaab,GAR-S4,-0.3175,39.71136,46,S16,5.33,5 to 10 km
+HH0916,Garissa,Dadaab,GAR-S4,-0.3299,39.67626,100,S16,9.46,5 to 10 km
+HH0917,Garissa,Dadaab,GAR-S4,-0.29366,39.67001,76,S16,9.87,5 to 10 km
+HH0918,Garissa,Dadaab,GAR-S4,-0.29813,39.69929,68,S16,6.58,5 to 10 km
+HH0919,Garissa,Dadaab,GAR-S4,-0.30971,39.69447,69,S16,7.07,5 to 10 km
+HH0920,Garissa,Dadaab,GAR-S4,-0.32243,39.73071,60,S16,3.53,Within 5 km
+HH0921,Garissa,Dadaab,GAR-S4,-0.29488,39.66773,40,S16,10.11,Over 10 km
+HH0922,Garissa,Dadaab,GAR-S4,-0.28768,39.70703,63,S16,6.02,5 to 10 km
+HH0923,Garissa,Dadaab,GAR-S4,-0.31997,39.71635,65,S16,4.87,Within 5 km
+HH0924,Garissa,Dadaab,GAR-S4,-0.28531,39.69022,80,S16,7.88,5 to 10 km
+HH0925,Garissa,Dadaab,GAR-S4,-0.29175,39.68029,83,S16,8.78,5 to 10 km
+HH0926,Garissa,Dadaab,GAR-S4,-0.30181,39.68075,46,S16,8.6,5 to 10 km
+HH0927,Garissa,Dadaab,GAR-S4,-0.31439,39.7018,58,S16,6.31,5 to 10 km
+HH0928,Garissa,Dadaab,GAR-S4,-0.2905,39.68427,80,S16,8.37,5 to 10 km
+HH0929,Garissa,Dadaab,GAR-S4,-0.30342,39.69782,24,S16,6.69,5 to 10 km
+HH0930,Garissa,Dadaab,GAR-S4,-0.30183,39.70299,64,S16,6.13,5 to 10 km
+HH0931,Garissa,Dadaab,GAR-S4,-0.29825,39.71542,56,S16,4.81,Within 5 km
+HH0932,Garissa,Dadaab,GAR-S4,-0.306,39.71184,55,S16,5.12,5 to 10 km
+HH0933,Garissa,Dadaab,GAR-S4,-0.30101,39.71986,45,S16,4.27,Within 5 km
+HH0934,Garissa,Dadaab,GAR-S4,-0.31372,39.65817,71,S16,11.12,Over 10 km
+HH0935,Garissa,Dadaab,GAR-S4,-0.2927,39.68331,71,S16,8.43,5 to 10 km
+HH0936,Garissa,Dadaab,GAR-S4,-0.26686,39.72352,65,S16,5.8,5 to 10 km
+HH0937,Garissa,Dadaab,GAR-S4,-0.30653,39.69965,95,S16,6.48,5 to 10 km
+HH0938,Garissa,Dadaab,GAR-S4,-0.30246,39.70621,52,S16,5.77,5 to 10 km
+HH0939,Garissa,Dadaab,GAR-S4,-0.32015,39.68506,69,S16,8.25,5 to 10 km
+HH0940,Garissa,Dadaab,GAR-S4,-0.32359,39.70904,66,S16,5.77,5 to 10 km
+HH0941,Garissa,Dadaab,GAR-S4,-0.32014,39.67358,73,S16,9.51,5 to 10 km
+HH0942,Garissa,Dadaab,GAR-S4,-0.28663,39.71875,67,S16,4.86,Within 5 km
+HH0943,Garissa,Dadaab,GAR-S4,-0.31935,39.70605,60,S16,5.95,5 to 10 km
+HH0944,Garissa,Dadaab,GAR-S4,-0.28183,39.70661,84,S16,6.31,5 to 10 km
+HH0945,Garissa,Dadaab,GAR-S4,-0.3195,39.68642,66,S16,8.09,5 to 10 km
+HH0946,Garissa,Dadaab,GAR-S4,-0.2991,39.68432,81,S16,8.22,5 to 10 km
+HH0947,Garissa,Dadaab,GAR-S4,-0.32374,39.6546,69,S16,11.66,Over 10 km
+HH0948,Garissa,Dadaab,GAR-S4,-0.29505,39.70136,82,S16,6.41,5 to 10 km
+HH0949,Garissa,Dadaab,GAR-S4,-0.29363,39.71191,57,S16,5.3,5 to 10 km
+HH0950,Garissa,Dadaab,GAR-S4,-0.32059,39.67399,79,S16,9.47,5 to 10 km
+HH0951,Garissa,Fafi,GAR-S5,-0.37067,39.59616,55,S13,10.86,Over 10 km
+HH0952,Garissa,Fafi,GAR-S5,-0.34692,39.58603,100,S13,13.64,Over 10 km
+HH0953,Garissa,Fafi,GAR-S5,-0.34734,39.57488,46,S13,14.37,Over 10 km
+HH0954,Garissa,Fafi,GAR-S5,-0.37359,39.61928,31,S13,9.13,5 to 10 km
+HH0955,Garissa,Fafi,GAR-S5,-0.32168,39.60602,52,S13,14.98,Over 10 km
+HH0956,Garissa,Fafi,GAR-S5,-0.36888,39.60259,57,S13,10.58,Over 10 km
+HH0957,Garissa,Fafi,GAR-S5,-0.34155,39.58472,50,S13,14.21,Over 10 km
+HH0958,Garissa,Fafi,GAR-S5,-0.36449,39.59344,72,S13,11.59,Over 10 km
+HH0959,Garissa,Fafi,GAR-S5,-0.31622,39.56857,81,S13,17.54,Over 10 km
+HH0960,Garissa,Fafi,GAR-S5,-0.33757,39.59681,68,S13,13.85,Over 10 km
+HH0961,Garissa,Fafi,GAR-S5,-0.31568,39.59006,71,S13,16.34,Over 10 km
+HH0962,Garissa,Fafi,GAR-S5,-0.34539,39.58696,69,S13,13.71,Over 10 km
+HH0963,Garissa,Fafi,GAR-S5,-0.31177,39.60407,55,S13,16.08,Over 10 km
+HH0964,Garissa,Fafi,GAR-S5,-0.34166,39.58838,41,S13,13.96,Over 10 km
+HH0965,Garissa,Fafi,GAR-S5,-0.33362,39.61447,64,S13,13.39,Over 10 km
+HH0966,Garissa,Fafi,GAR-S5,-0.35225,39.62203,58,S13,11.15,Over 10 km
+HH0967,Garissa,Fafi,GAR-S5,-0.3279,39.59142,96,S13,15.08,Over 10 km
+HH0968,Garissa,Fafi,GAR-S5,-0.34594,39.62641,53,S13,11.65,Over 10 km
+HH0969,Garissa,Fafi,GAR-S5,-0.31624,39.58098,87,S13,16.79,Over 10 km
+HH0970,Garissa,Fafi,GAR-S5,-0.34882,39.62179,89,S13,11.52,Over 10 km
+HH0971,Garissa,Fafi,GAR-S5,-0.38462,39.59847,74,S13,9.55,5 to 10 km
+HH0972,Garissa,Fafi,GAR-S5,-0.37351,39.60987,50,S13,9.69,5 to 10 km
+HH0973,Garissa,Fafi,GAR-S5,-0.31402,39.60864,51,S13,15.66,Over 10 km
+HH0974,Garissa,Fafi,GAR-S5,-0.34884,39.60332,58,S13,12.4,Over 10 km
+HH0975,Garissa,Fafi,GAR-S5,-0.34897,39.59976,55,S13,12.59,Over 10 km
+HH0976,Garissa,Fafi,GAR-S5,-0.32813,39.59474,54,S13,14.88,Over 10 km
+HH0977,Garissa,Fafi,GAR-S5,-0.34097,39.58726,43,S13,14.1,Over 10 km
+HH0978,Garissa,Fafi,GAR-S5,-0.33797,39.61095,47,S13,13.1,Over 10 km
+HH0979,Garissa,Fafi,GAR-S5,-0.32904,39.56463,69,S13,16.67,Over 10 km
+HH0980,Garissa,Fafi,GAR-S5,-0.36129,39.6397,53,S13,9.61,5 to 10 km
+HH0981,Garissa,Fafi,GAR-S5,-0.34539,39.59976,65,S13,12.93,Over 10 km
+HH0982,Garissa,Fafi,GAR-S5,-0.35485,39.60097,85,S13,11.97,Over 10 km
+HH0983,Garissa,Fafi,GAR-S5,-0.33116,39.63838,98,S13,12.92,Over 10 km
+HH0984,Garissa,Fafi,GAR-S5,-0.35701,39.59107,83,S13,12.4,Over 10 km
+HH0985,Garissa,Fafi,GAR-S5,-0.35846,39.60736,87,S13,11.25,Over 10 km
+HH0986,Garissa,Fafi,GAR-S5,-0.339,39.60714,64,S13,13.17,Over 10 km
+HH0987,Garissa,Fafi,GAR-S5,-0.33921,39.58083,72,S13,14.67,Over 10 km
+HH0988,Garissa,Fafi,GAR-S5,-0.36953,39.56684,64,S13,13.28,Over 10 km
+HH0989,Garissa,Fafi,GAR-S5,-0.33981,39.5932,60,S13,13.84,Over 10 km
+HH0990,Garissa,Fafi,GAR-S5,-0.35064,39.58424,55,S13,13.43,Over 10 km
+HH0991,Garissa,Fafi,GAR-S5,-0.35452,39.60735,60,S13,11.63,Over 10 km
+HH0992,Garissa,Fafi,GAR-S5,-0.35418,39.60406,58,S13,11.85,Over 10 km
+HH0993,Garissa,Fafi,GAR-S5,-0.37137,39.60616,82,S13,10.12,Over 10 km
+HH0994,Garissa,Fafi,GAR-S5,-0.35857,39.58777,41,S13,12.5,Over 10 km
+HH0995,Garissa,Fafi,GAR-S5,-0.36131,39.5967,44,S13,11.65,Over 10 km
+HH0996,Garissa,Fafi,GAR-S5,-0.34503,39.63268,31,S13,11.55,Over 10 km
+HH0997,Garissa,Fafi,GAR-S5,-0.31304,39.6094,55,S13,15.73,Over 10 km
+HH0998,Garissa,Fafi,GAR-S5,-0.33758,39.60698,61,S13,13.32,Over 10 km
+HH0999,Garissa,Fafi,GAR-S5,-0.33901,39.56118,50,S13,16.08,Over 10 km
+HH1000,Garissa,Fafi,GAR-S5,-0.29696,39.60386,28,S16,17.16,Over 10 km

@@ -1,0 +1,17 @@
+site_id,site_name,county,latitude,longitude,operational_status,max_radius_km
+S01,Turkana Distribution Point 1,Turkana,3.12899,35.60901,Active,10
+S02,Turkana Distribution Point 2,Turkana,3.15597,35.7351,Suspended,5
+S03,Turkana Distribution Point 3,Turkana,3.20994,35.50092,Active,5
+S04,Turkana Distribution Point 4,Turkana,2.96711,35.69908,Active,5
+S05,Marsabit Distribution Point 1,Marsabit,2.33899,37.9945,Active,5
+S06,Marsabit Distribution Point 2,Marsabit,2.41094,37.88199,Active,5
+S07,Marsabit Distribution Point 3,Marsabit,2.42893,38.09351,Suspended,5
+S08,Marsabit Distribution Point 4,Marsabit,2.1861,37.963,Active,5
+S09,Isiolo Distribution Point 1,Isiolo,0.3545,37.5845,Active,5
+S10,Isiolo Distribution Point 2,Isiolo,0.41296,37.67443,Active,5
+S11,Isiolo Distribution Point 3,Isiolo,0.40846,37.50355,Active,5
+S12,Isiolo Distribution Point 4,Isiolo,0.25107,37.60698,Active,5
+S13,Garissa Distribution Point 1,Garissa,-0.4455,39.65899,Active,10
+S14,Garissa Distribution Point 2,Garissa,-0.50846,39.76692,Active,10
+S15,Garissa Distribution Point 3,Garissa,-0.51296,39.55107,Active,10
+S16,Garissa Distribution Point 4,Garissa,-0.3061,39.75793,Active,10

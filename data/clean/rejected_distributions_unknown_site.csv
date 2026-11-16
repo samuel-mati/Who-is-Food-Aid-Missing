@@ -1,0 +1,5 @@
+dist_id,site_id,dist_date,commodity,qty_planned_mt,qty_dispatched_mt,qty_received_mt
+D90000,S99,2026-06-18,Super Cereal CSB++,0.4,0.365,0.36
+D90001,S99,2026-02-19,Pulses,0.5,0.477,0.476
+D90002,S99,2026-08-07,Pulses,0.5,0.457,0.451
+D90003,S99,2026-08-05,Super Cereal CSB++,0.84,0.773,0.764

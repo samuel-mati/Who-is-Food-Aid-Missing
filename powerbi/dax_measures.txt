@@ -1,0 +1,74 @@
+DAX measures for the Power BI version of this project
+=====================================================
+
+Load these tables from data/clean: beneficiaries, sites, distributions, ration_receipts, household_coverage.
+Relationships (single direction, one to many):
+  sites[site_id] to distributions[site_id]
+  sites[site_id] to household_coverage[nearest_site_id]
+  beneficiaries[household_id] to household_coverage[household_id]  (one to one)
+  beneficiaries[household_id] to ration_receipts[household_id]
+Add a Date table and relate it to ration_receipts[ration_month] and distributions[dist_date].
+
+
+Programme Overview
+-----------------------
+Households Enrolled = DISTINCTCOUNT ( beneficiaries[household_id] )
+
+Rations Delivered = SUM ( ration_receipts[rations_received] )
+
+Rations Target = COUNTROWS ( ration_receipts )
+
+Beneficiary Reach % = DIVIDE ( [Rations Delivered], [Rations Target] )
+
+Active Counties =
+CALCULATE ( DISTINCTCOUNT ( sites[county] ), sites[operational_status] = "Active" )
+
+
+Commodity Deliveries
+--------------------------------
+Planned MT = SUM ( distributions[qty_planned_mt] )
+
+Dispatched MT = SUM ( distributions[qty_dispatched_mt] )
+
+Received MT = SUM ( distributions[qty_received_mt] )
+
+Commodity Fulfilment % = DIVIDE ( [Received MT], [Planned MT] )
+
+Variance MT = [Received MT] - [Planned MT]
+
+Variance % = DIVIDE ( [Variance MT], [Planned MT] )
+
+Transit Loss % = DIVIDE ( [Dispatched MT] - [Received MT], [Dispatched MT] )
+
+Completion Rate Prior Month =
+CALCULATE ( [Commodity Fulfilment %], DATEADD ( 'Date'[Date], -1, MONTH ) )
+
+Completion Change vs Prior Month (pts) = ( [Commodity Fulfilment %] - [Completion Rate Prior Month] ) * 100
+
+Below Plan Flag = IF ( [Commodity Fulfilment %] < 0.8, 1, 0 )
+
+
+Access to Distribution Sites
+------------------
+Households Within 5 km =
+CALCULATE ( COUNTROWS ( household_coverage ), household_coverage[coverage_band] = "Within 5 km" )
+
+Households Over 10 km =
+CALCULATE ( COUNTROWS ( household_coverage ), household_coverage[coverage_band] = "Over 10 km" )
+
+Share of Households Within 5 km = DIVIDE ( [Households Within 5 km], COUNTROWS ( household_coverage ) )
+
+Average Distance km = AVERAGE ( household_coverage[nearest_site_km] )
+
+Reach Rate Within 5 km =
+CALCULATE ( [Beneficiary Reach %], household_coverage[coverage_band] = "Within 5 km" )
+
+Reach Rate Over 10 km =
+CALCULATE ( [Beneficiary Reach %], household_coverage[coverage_band] = "Over 10 km" )
+
+
+Page 3 map
+----------
+Use the Azure Maps or ArcGIS Maps visual. Put beneficiaries[latitude] and [longitude] on the map, colour by
+household_coverage[coverage_band], and add sites[latitude] and [longitude] as a second layer.
+Set the colours to Warm Blue 05668D (Within 5 km), Golden Yellow F4B400 (5 to 10 km) and B3261E (Over 10 km).

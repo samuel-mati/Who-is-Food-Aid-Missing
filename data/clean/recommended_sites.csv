@@ -1,0 +1,6 @@
+rank,county,latitude,longitude,new_households_covered,cumulative_coverage_pct
+1,Turkana,3.04308,35.5663,47,68.2
+2,Garissa,-0.34521,39.59907,49,73.1
+3,Marsabit,2.25622,37.90414,47,77.8
+4,Isiolo,0.30416,37.5331,48,82.6
+5,Marsabit,2.19549,38.03034,45,87.1

@@ -1,0 +1,8 @@
+{
+  "households": 1000,
+  "within_5km_pct": 54.2,
+  "between_5_10_pct": 23.0,
+  "over_10km_pct": 22.8,
+  "median_walk_km": 4.45,
+  "reopen_suspended_within_5km_pct": 63.5
+}
