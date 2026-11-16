@@ -12,7 +12,7 @@
 ![Dashboard](https://img.shields.io/badge/Interactive-dashboard-1C2B3A?style=for-the-badge)
 ![Power BI](https://img.shields.io/badge/Power%20BI-DAX%20ready-F4B400?style=for-the-badge)
 
-**[Live dashboard](https://htmlpreview.github.io/?https://github.com/samuel-mati/Who-is-Food-Aid-Missing/blob/main/dashboard/monitoring_dashboard.html)** &nbsp;|&nbsp; **[Executive memo](docs/Executive_Briefing_Memo.docx)**
+**[Live dashboard](https://htmlpreview.github.io/?https://github.com/samuel-mati/Who-is-Food-Aid-Missing/blob/main/dashboard/monitoring_dashboard.html)** &nbsp;|&nbsp; **[Executive memo](docs/Executive_Briefing_Memo.pdf)**
 
 <br>
 
